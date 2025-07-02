@@ -1,1 +1,262 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Анна Иванова — дизайнер</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-light: #ffffff;
+      --bg-dark: #121212;
+      --text-light: #000000;
+      --text-dark: #ffffff;
+      --accent: #ff4081;
+    }
 
+    body {
+      font-family: 'Manrope', sans-serif;
+      margin: 0;
+      padding: 0;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    body.light {
+      background-color: var(--bg-light);
+      color: var(--text-light);
+    }
+
+    body.dark {
+      background-color: var(--bg-dark);
+      color: var(--text-dark);
+    }
+
+    .theme-toggle {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      z-index: 1000;
+      cursor: pointer;
+      background: transparent;
+      border: 2px solid currentColor;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      font-size: 1.2rem;
+    }
+
+    header {
+      text-align: center;
+      padding: 100px 20px 60px;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      max-width: 600px;
+      margin: auto;
+      opacity: 0.8;
+    }
+
+    section {
+      padding: 60px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 40px;
+      font-size: 2rem;
+      color: var(--accent);
+    }
+
+    .gallery, .services, .reviews {
+      display: grid;
+      gap: 30px;
+    }
+
+    .gallery {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+
+    .gallery img {
+      width: 100%;
+      border-radius: 10px;
+      object-fit: cover;
+    }
+
+    .services {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+
+    .service {
+      padding: 20px;
+      border-radius: 10px;
+      border: 1px solid rgba(255,255,255,0.1);
+      background: rgba(0,0,0,0.05);
+    }
+
+    .service h3 {
+      margin-bottom: 10px;
+    }
+
+    .carousel {
+      overflow-x: auto;
+      display: flex;
+      gap: 20px;
+      scroll-snap-type: x mandatory;
+    }
+
+    .review {
+      min-width: 300px;
+      scroll-snap-align: start;
+      border-radius: 10px;
+      padding: 20px;
+      background: rgba(0,0,0,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      flex-shrink: 0;
+    }
+
+    .review img {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+
+    .contact {
+      text-align: center;
+    }
+
+    .contact form {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      max-width: 400px;
+      margin: auto;
+    }
+
+    .contact input {
+      padding: 12px;
+      font-size: 1rem;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+    }
+
+    .contact button {
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      padding: 12px;
+      border-radius: 8px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .contact button:hover {
+      background: #e73370;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      font-size: 0.9rem;
+      opacity: 0.6;
+    }
+  </style>
+</head>
+<body class="light">
+  <button class="theme-toggle" onclick="toggleTheme()">🌙</button>
+
+  <header>
+    <h1>Анна Иванова</h1>
+    <p>Дизайнер полного цикла: UX/UI, брендинг, графика, упаковка и визуальная айдентика. Современный стиль. Эстетика во всём.</p>
+  </header>
+
+  <section>
+    <h2>Мои работы</h2>
+    <div class="gallery">
+      <img src="work1.jpg" alt="Работа 1">
+      <img src="work2.jpg" alt="Работа 2">
+      <img src="work3.jpg" alt="Работа 3">
+      <img src="work4.jpg" alt="Работа 4">
+      <img src="work5.jpg" alt="Работа 5">
+    </div>
+  </section>
+
+  <section>
+    <h2>Услуги</h2>
+    <div class="services">
+      <div class="service">
+        <h3>Сайт под ключ</h3>
+        <p>Проектирование, дизайн и адаптивная вёрстка сайта с нуля.</p>
+      </div>
+      <div class="service">
+        <h3>Логотип</h3>
+        <p>Создание уникального логотипа под ваш бренд и ценности.</p>
+      </div>
+      <div class="service">
+        <h3>Редизайн</h3>
+        <p>Обновление устаревших интерфейсов с учётом современных трендов.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Отзывы</h2>
+    <div class="carousel">
+      <div class="review">
+        <img src="client1.jpg" alt="Клиент 1">
+        <p>Очень приятный опыт. Всё быстро и стильно.</p>
+      </div>
+      <div class="review">
+        <img src="client2.jpg" alt="Клиент 2">
+        <p>Анна сделала именно то, что нужно. Всем рекомендую!</p>
+      </div>
+      <div class="review">
+        <img src="client3.jpg" alt="Клиент 3">
+        <p>Редизайн прошёл гладко, результат на 200% лучше!</p>
+      </div>
+      <div class="review">
+        <img src="client4.jpg" alt="Клиент 4">
+        <p>Брендинг стал узнаваемым. Спасибо за подход и вкус!</p>
+      </div>
+      <div class="review">
+        <img src="client5.jpg" alt="Клиент 5">
+        <p>Работать с Анной — удовольствие. Всё вовремя и чётко.</p>
+      </div>
+      <div class="review">
+        <img src="client6.jpg" alt="Клиент 6">
+        <p>Проект прошёл идеально. Будем обращаться снова!</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact">
+    <h2>Связаться</h2>
+    <form onsubmit="sendForm(event)">
+      <input type="text" placeholder="Ваше имя" required>
+      <input type="text" placeholder="О проекте" required>
+      <button type="submit">Отправить</button>
+    </form>
+    <p style="margin-top:20px;">или напишите в <a href="https://t.me/zotus" target="_blank">Telegram</a></p>
+  </section>
+
+  <footer>
+    © 2025 Анна Иванова. Дизайнер.
+  </footer>
+
+  <script>
+    function toggleTheme() {
+      const body = document.body;
+      body.classList.toggle("dark");
+      body.classList.toggle("light");
+      document.querySelector(".theme-toggle").textContent = body.classList.contains("dark") ? "🌞" : "🌙"
