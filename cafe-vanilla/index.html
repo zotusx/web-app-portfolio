@@ -1,52 +1,16 @@
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Café Vanilla</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Manrope:wght@400;600&display=swap" rel="stylesheet">
   <style>
-        .carousel-wrapper {
-      position: relative;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-    }
-
-    .carousel-btn {
-      background: var(--accent);
-      border: none;
-      color: white;
-      font-size: 1.5rem;
-      padding: 10px 16px;
-      border-radius: 50%;
-      cursor: pointer;
-      transition: background 0.3s;
-      z-index: 1;
-    }
-
-    .carousel-btn:hover {
-      background: #d8a385;
-    }
-
-    .carousel {
-      display: flex;
-      overflow-x: hidden;
-      scroll-behavior: smooth;
-      gap: 20px;
-      width: 100%;
-      max-width: 900px;
-    }
-
-
     :root {
-      --cream: #fff7f0;
-      --choco: #4a2c24;
-      --rose: #fbd6d8;
-      --accent: #e9b29c;
-      --white: #ffffff;
-      --shadow: rgba(0, 0, 0, 0.06);
+      --cream: #fdf6ec;
+      --choco: #5e3c2f;
+      --rose: #f7cdd0;
+      --accent: #e4b7a0;
     }
 
     * {
@@ -68,20 +32,19 @@
     }
 
     header {
-      background: linear-gradient(to right, #fcdede, #fbd6d8);
-      padding: 100px 20px 60px;
+      background: var(--rose);
+      padding: 80px 20px;
       text-align: center;
-      border-bottom: 4px solid var(--accent);
     }
 
     header h1 {
-      font-size: 3.2rem;
-      margin-bottom: 15px;
+      font-size: 3rem;
+      margin-bottom: 10px;
     }
 
     header p {
       font-size: 1.2rem;
-      opacity: 0.9;
+      opacity: 0.8;
     }
 
     section {
@@ -92,29 +55,27 @@
 
     .menu-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 30px;
     }
 
     .dish {
-      background: var(--white);
+      background: #fff8f2;
       padding: 20px;
-      border-radius: 12px;
-      box-shadow: 0 8px 20px var(--shadow);
+      border-radius: 10px;
+      box-shadow: 0 5px 10px rgba(0,0,0,0.05);
       position: relative;
-      cursor: pointer;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      transition: transform 0.3s;
     }
 
     .dish:hover {
-      transform: translateY(-6px);
-      box-shadow: 0 12px 24px rgba(0,0,0,0.08);
+      transform: translateY(-5px);
     }
 
     .dish::after {
       content: attr(data-info);
       position: absolute;
-      bottom: 15px;
+      bottom: 10px;
       left: 20px;
       right: 20px;
       background: var(--accent);
@@ -133,12 +94,20 @@
       transform: translateY(0);
     }
 
+    /* Карусель отзывов */
+    .carousel-wrapper {
+      position: relative;
+      overflow: hidden;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
     .carousel {
       display: flex;
-      overflow-x: auto;
       gap: 20px;
-      scroll-snap-type: x mandatory;
-      padding-bottom: 10px;
+      overflow-x: auto;
+      scroll-behavior: smooth;
+      padding: 10px;
     }
 
     .carousel::-webkit-scrollbar {
@@ -146,22 +115,46 @@
     }
 
     .review {
-      scroll-snap-align: start;
-      min-width: 300px;
-      background: #ffffff;
-      border-left: 5px solid var(--accent);
+      flex: 0 0 300px;
+      background: #fff;
+      border-left: 4px solid var(--accent);
       padding: 20px;
-      border-radius: 12px;
-      box-shadow: 0 5px 12px rgba(0,0,0,0.05);
-      font-style: italic;
+      border-radius: 10px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+    }
+
+    .carousel-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(228, 183, 160, 0.7);
+      border: none;
+      color: white;
+      font-size: 2rem;
+      padding: 10px 14px;
+      border-radius: 50%;
+      cursor: pointer;
+      transition: background 0.3s;
+      z-index: 10;
+    }
+
+    .carousel-btn:hover {
+      background: rgba(228, 183, 160, 1);
+    }
+
+    .carousel-btn.left {
+      left: -10px;
+    }
+
+    .carousel-btn.right {
+      right: -10px;
     }
 
     .map-block {
-      background: #fff2ec;
+      background: #fceee5;
       padding: 30px;
-      border-radius: 12px;
+      border-radius: 10px;
       text-align: center;
-      box-shadow: 0 5px 12px rgba(0,0,0,0.04);
     }
 
     .reservation {
@@ -177,25 +170,25 @@
     }
 
     input {
-      padding: 14px;
+      padding: 12px;
       font-size: 1rem;
       border: 1px solid #ccc;
-      border-radius: 10px;
+      border-radius: 8px;
     }
 
     button {
       background: var(--accent);
       color: #fff;
       font-weight: bold;
-      padding: 14px;
+      padding: 12px;
       border: none;
-      border-radius: 10px;
+      border-radius: 8px;
       cursor: pointer;
-      transition: background 0.3s ease;
+      transition: background 0.3s;
     }
 
     button:hover {
-      background: #d59b82;
+      background: #d8a385;
     }
 
     footer {
@@ -203,8 +196,6 @@
       text-align: center;
       padding: 30px;
       font-size: 0.9rem;
-      margin-top: 60px;
-      border-top: 3px solid var(--accent);
     }
 
     .fade-up {
@@ -240,22 +231,21 @@
   </section>
 
   <section class="fade-up">
-  <h2 style="text-align:center; margin-bottom:30px;">Отзывы</h2>
-  <div class="carousel-wrapper">
-    <button class="carousel-btn left" onclick="scrollCarousel(-1)">←</button>
-    <div class="carousel" id="carousel">
-      <div class="review">Лучшее кафе, где я когда-либо была! Атмосфера волшебная.</div>
-      <div class="review">Десерты просто тают во рту. Обязательно вернусь!</div>
-      <div class="review">Идеальное место для уютных встреч с друзьями.</div>
-      <div class="review">Персонал внимательный, интерьер — сказка.</div>
-      <div class="review">Ощущение, будто попал в Париж! Благодарю за эмоции.</div>
-      <div class="review">Кофе — на высшем уровне. Очень стильное место.</div>
-      <div class="review">Обслуживание — 10/10, интерьер вдохновляет.</div>
+    <h2 style="text-align:center; margin-bottom:30px;">Отзывы</h2>
+    <div class="carousel-wrapper">
+      <button class="carousel-btn left" onclick="scrollCarousel(-1)">&#10094;</button>
+      <div class="carousel" id="carousel">
+        <div class="review">Лучшее кафе, где я когда-либо была! Атмосфера волшебная.</div>
+        <div class="review">Десерты просто тают во рту. Обязательно вернусь!</div>
+        <div class="review">Идеальное место для уютных встреч с друзьями.</div>
+        <div class="review">Персонал внимательный, интерьер — сказка.</div>
+        <div class="review">Ощущение, будто попал в Париж! Благодарю за эмоции.</div>
+        <div class="review">Кофе — на высшем уровне. Очень стильное место.</div>
+        <div class="review">Обслуживание — 10/10, интерьер вдохновляет.</div>
+      </div>
+      <button class="carousel-btn right" onclick="scrollCarousel(1)">&#10095;</button>
     </div>
-    <button class="carousel-btn right" onclick="scrollCarousel(1)">→</button>
-  </div>
-</section>
-
+  </section>
 
   <section class="fade-up">
     <h2 style="text-align:center; margin-bottom:30px;">Мы находимся</h2>
@@ -277,16 +267,6 @@
   <footer>
     © 2025 Café Vanilla · Все права защищены
   </footer>
-  <script>
-    function scrollCarousel(direction) {
-      const carousel = document.getElementById('carousel');
-      const cardWidth = carousel.querySelector('.review').offsetWidth + 20; // +gap
-      carousel.scrollBy({
-        left: direction * cardWidth,
-        behavior: 'smooth'
-      });
-    }
-  </script>
 
   <script>
     function submitForm(e) {
@@ -294,16 +274,30 @@
       window.location.href = "https://t.me/zotus";
     }
 
+    function scrollCarousel(direction) {
+      const carousel = document.getElementById('carousel');
+      const cardWidth = carousel.querySelector('.review').offsetWidth + 20;
+      carousel.scrollBy({
+        left: direction * cardWidth,
+        behavior: 'smooth'
+      });
+    }
+
     const faders = document.querySelectorAll('.fade-up');
+    const options = {
+      threshold: 0.1
+    };
+
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           entry.target.classList.add('show');
         }
       });
-    }, { threshold: 0.1 });
+    }, options);
 
     faders.forEach(f => observer.observe(f));
   </script>
 </body>
 </html>
+
