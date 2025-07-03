@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Магазин • Карточки товара</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f9f9f9;
+      --text: #222;
+      --primary: #4b7bec;
+      --accent: #f1f1f1;
+      --star: #ffbe0b;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      padding: 40px 20px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2.5rem;
+      margin-bottom: 40px;
+    }
+
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 30px;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+      position: relative;
+      transition: transform 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+    }
+
+    .card img {
+      width: 100%;
+      height: 280px;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    .card:hover img {
+      transform: scale(1.05);
+    }
+
+    .info {
+      padding: 20px;
+    }
+
+    .title {
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .desc {
+      font-size: 0.95rem;
+      color: #666;
+      margin-bottom: 12px;
+    }
+
+    .rating {
+      color: var(--star);
+      margin-bottom: 16px;
+    }
+
+    .buy-btn {
+      display: none;
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--primary);
+      color: #fff;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 8px;
+      font-weight: bold;
+      text-decoration: none;
+      transition: background 0.3s ease;
+    }
+
+    .card:hover .buy-btn {
+      display: inline-block;
+    }
+
+    .buy-btn:hover {
+      background: #3a60d1;
+    }
+
+    .cart {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      background: #fff;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+    }
+
+    .cart-icon {
+      width: 24px;
+      height: 24px;
+      background: url('https://cdn-icons-png.flaticon.com/512/1170/1170678.png') no-repeat center/contain;
+    }
+
+    @media (max-width: 600px) {
+      .card img {
+        height: 200px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="cart" title="Корзина">
+    <div class="cart-icon"></div>
+  </div>
+
+  <h1>Наши товары</h1>
+
+  <div class="product-grid">
+    <div class="card">
+      <img src="product1.jpg" alt="Товар 1">
+      <div class="info">
+        <div class="title">Смарт-часы Futura</div>
+        <div class="desc">Идеальный помощник для активного дня</div>
+        <div class="rating">★★★★★</div>
+        <a href="https://t.me/zotus" class="buy-btn">Купить</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="product2.jpg" alt="Товар 2">
+      <div class="info">
+        <div class="title">Наушники SpaceBass</div>
+        <div class="desc">Глубокий звук и комфорт на весь день</div>
+        <div class="rating">★★★★☆</div>
+        <a href="https://t.me/zotus" class="buy-btn">Купить</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="product3.jpg" alt="Товар 3">
+      <div class="info">
+        <div class="title">Бутылка KeepCool</div>
+        <div class="desc">Держит температуру до 12 часов</div>
+        <div class="rating">★★★★★</div>
+        <a href="https://t.me/zotus" class="buy-btn">Купить</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="product4.jpg" alt="Товар 4">
+      <div class="info">
+        <div class="title">Рюкзак CityFlow</div>
+        <div class="desc">Вместительный и стильный городской рюкзак</div>
+        <div class="rating">★★★★★</div>
+        <a href="https://t.me/zotus" class="buy-btn">Купить</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="product5.jpg" alt="Товар 5">
+      <div class="info">
+        <div class="title">Светильник AuraLight</div>
+        <div class="desc">Создаёт уютное мягкое освещение</div>
+        <div class="rating">★★★★☆</div>
+        <a href="https://t.me/zotus" class="buy-btn">Купить</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="product6.jpg" alt="Товар 6">
+      <div class="info">
+        <div class="title">Клавиатура SoftKeys</div>
+        <div class="desc">Бесшумная и эргономичная</div>
+        <div class="rating">★★★★★</div>
+        <a href="https://t.me/zotus" class="buy-btn">Купить</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
