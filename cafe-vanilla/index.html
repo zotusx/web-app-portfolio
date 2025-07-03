@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
@@ -6,6 +6,40 @@
   <title>Café Vanilla</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Manrope:wght@400;600&display=swap" rel="stylesheet">
   <style>
+        .carousel-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .carousel-btn {
+      background: var(--accent);
+      border: none;
+      color: white;
+      font-size: 1.5rem;
+      padding: 10px 16px;
+      border-radius: 50%;
+      cursor: pointer;
+      transition: background 0.3s;
+      z-index: 1;
+    }
+
+    .carousel-btn:hover {
+      background: #d8a385;
+    }
+
+    .carousel {
+      display: flex;
+      overflow-x: hidden;
+      scroll-behavior: smooth;
+      gap: 20px;
+      width: 100%;
+      max-width: 900px;
+    }
+
+
     :root {
       --cream: #fff7f0;
       --choco: #4a2c24;
