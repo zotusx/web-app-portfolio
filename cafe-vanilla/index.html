@@ -277,6 +277,16 @@
   <footer>
     © 2025 Café Vanilla · Все права защищены
   </footer>
+  <script>
+    function scrollCarousel(direction) {
+      const carousel = document.getElementById('carousel');
+      const cardWidth = carousel.querySelector('.review').offsetWidth + 20; // +gap
+      carousel.scrollBy({
+        left: direction * cardWidth,
+        behavior: 'smooth'
+      });
+    }
+  </script>
 
   <script>
     function submitForm(e) {
