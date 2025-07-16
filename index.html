@@ -19,7 +19,6 @@
       justify-content: center;
       min-height: 100vh;
       text-align: center;
-      overflow: hidden;
     }
     h1 {
       font-size: 3rem;
@@ -37,6 +36,7 @@
       gap: 1rem;
       flex-wrap: wrap;
       justify-content: center;
+      margin-bottom: 3rem;
     }
     .btn {
       background: #00ffe1;
@@ -56,6 +56,30 @@
       box-shadow: 0 0 15px #00ffe1;
       border: 1px solid #00ffe1;
     }
+    #projects {
+      width: 100%;
+      max-width: 600px;
+      padding: 1rem;
+    }
+    #projects h2 {
+      color: #ff004c;
+      margin-bottom: 1rem;
+    }
+    .button-block {
+      background: #1a1a1d;
+      margin: 0.5rem 0;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 0 8px #00ffe1;
+    }
+    .button-block a {
+      color: #00ffe1;
+      text-decoration: none;
+      font-size: 1.1rem;
+    }
+    .button-block a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -67,6 +91,22 @@
       <a href="https://t.me/zotus" class="btn">Связаться</a>
       <a href="#skills" class="btn">Что я умею</a>
     </div>
+
+    <section id="projects">
+      <h2>Проекты</h2>
+      <div class="button-block">
+        <a href="https://zotusx.github.io/web-app-portfolio/it-school">Сайт IT-Школы</a>
+      </div>
+      <div class="button-block">
+        <a href="https://zotusx.github.io/web-app-portfolio/anna-ivanovna">Дизайнер Анна Ивановна</a>
+      </div>
+      <div class="button-block">
+        <a href="https://zotusx.github.io/web-app-portfolio/cafe-vanilla/index.html">Кафе "Ваниль"</a>
+      </div>
+      <div class="button-block">
+        <a href="https://zotusx.github.io/web-app-portfolio/base-portfolio">Базовый сайт-портфолио</a>
+      </div>
+    </section>
   </main>
 </body>
 </html>
