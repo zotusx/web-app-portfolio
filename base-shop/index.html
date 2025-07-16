@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Магазин • Карточки товара</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Orbitron:wght@600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg1: #ffe0f7;
-      --bg2: #ffd6ec;
-      --text: #3a003d;
-      --accent: #ff4db8;
-      --white: #fff0fb;
+      --bg: #f9f9f9;
+      --text: #222;
+      --primary: #4b7bec;
+      --accent: #f1f1f1;
       --star: #ffbe0b;
+      --pink: #ff4da6;
     }
 
     * {
@@ -23,21 +23,15 @@
 
     body {
       font-family: 'Inter', sans-serif;
-      background: linear-gradient(135deg, var(--bg1), var(--bg2));
+      background: var(--bg);
       color: var(--text);
-      min-height: 100vh;
-      overflow-x: hidden;
-      padding: 60px 20px;
-      position: relative;
+      padding: 40px 20px;
     }
 
     h1 {
       text-align: center;
-      font-size: 3rem;
-      font-family: 'Orbitron', sans-serif;
-      color: var(--accent);
-      text-shadow: 0 0 10px rgba(255, 77, 184, 0.5);
-      margin-bottom: 50px;
+      font-size: 2.5rem;
+      margin-bottom: 40px;
     }
 
     .product-grid {
@@ -46,31 +40,29 @@
       gap: 30px;
       max-width: 1200px;
       margin: auto;
-      position: relative;
-      z-index: 1;
     }
 
     .card {
-      background: var(--white);
-      border: 2px solid var(--accent);
-      border-radius: 20px;
+      background: #fff;
+      border-radius: 16px;
       overflow: hidden;
-      box-shadow: 0 0 15px rgba(255, 77, 184, 0.2);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
       position: relative;
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      transition: transform 0.3s ease;
+      cursor: pointer;
     }
 
     .card:hover {
-      transform: translateY(-8px);
-      box-shadow: 0 0 30px rgba(255, 77, 184, 0.4);
+      transform: translateY(-5px);
     }
 
     .card img {
       width: 100%;
-      aspect-ratio: 1 / 1; /* это задаёт квадратное соотношение */
+      aspect-ratio: 1 / 1;
       object-fit: cover;
       transition: transform 0.3s ease;
-      border-radius: 15px 15px 0 0; /* если хочешь, чтобы углы сверху были скруглённые */
+      display: block;
+      border-radius: 16px 16px 0 0;
     }
 
     .card:hover img {
@@ -89,7 +81,7 @@
 
     .desc {
       font-size: 0.95rem;
-      color: #555;
+      color: #666;
       margin-bottom: 12px;
     }
 
@@ -104,15 +96,15 @@
       bottom: 20px;
       left: 50%;
       transform: translateX(-50%);
-      background: var(--accent);
+      background: var(--primary);
       color: #fff;
       padding: 12px 20px;
       border: none;
       border-radius: 8px;
       font-weight: bold;
       text-decoration: none;
-      box-shadow: 0 0 10px rgba(255, 77, 184, 0.3);
-      transition: background 0.3s ease, box-shadow 0.3s ease;
+      transition: background 0.3s ease;
+      z-index: 2;
     }
 
     .card:hover .buy-btn {
@@ -120,8 +112,7 @@
     }
 
     .buy-btn:hover {
-      background: #ff329e;
-      box-shadow: 0 0 15px rgba(255, 77, 184, 0.5);
+      background: #3a60d1;
     }
 
     .cart {
@@ -132,12 +123,12 @@
       border-radius: 50%;
       width: 50px;
       height: 50px;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
       display: flex;
       justify-content: center;
       align-items: center;
       cursor: pointer;
-      z-index: 10;
+      z-index: 100;
     }
 
     .cart-icon {
@@ -146,48 +137,78 @@
       background: url('https://cdn-icons-png.flaticon.com/512/1170/1170678.png') no-repeat center/contain;
     }
 
-    .particles {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      pointer-events: none;
-      z-index: 0;
-      overflow: hidden;
-    }
-
-    .particles span {
-      position: absolute;
-      width: 8px;
-      height: 8px;
-      background: var(--accent);
-      border-radius: 50%;
-      opacity: 0.5;
-      animation: float 10s linear infinite;
-    }
-
-    @keyframes float {
-      0% {
-        transform: translateY(100vh) scale(0.5);
-        opacity: 0;
-      }
-      30% {
-        opacity: 1;
-      }
-      100% {
-        transform: translateY(-10vh) scale(1.2);
-        opacity: 0;
-      }
-    }
-
     @media (max-width: 600px) {
-      h1 {
-        font-size: 2rem;
-      }
-
       .card img {
         height: 200px;
+      }
+    }
+
+    /* Лайтбокс */
+    .lightbox-overlay {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.75);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+
+    .lightbox-overlay.active {
+      display: flex;
+    }
+
+    .lightbox-content {
+      position: relative;
+      max-width: 90vw;
+      max-height: 90vh;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 0 30px rgba(255, 77, 166, 0.7);
+      animation: fadeInScale 0.3s ease forwards;
+      background: #111;
+    }
+
+    .lightbox-content img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+      border-radius: 20px;
+    }
+
+    .lightbox-close {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      width: 32px;
+      height: 32px;
+      cursor: pointer;
+      background: var(--pink);
+      border-radius: 50%;
+      color: white;
+      font-size: 24px;
+      line-height: 32px;
+      text-align: center;
+      font-weight: bold;
+      box-shadow: 0 0 10px var(--pink);
+      user-select: none;
+      transition: background 0.3s ease;
+      z-index: 10000;
+    }
+
+    .lightbox-close:hover {
+      background: #e6369e;
+    }
+
+    @keyframes fadeInScale {
+      0% {
+        opacity: 0;
+        transform: scale(0.9);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1);
       }
     }
   </style>
@@ -202,7 +223,7 @@
 
   <div class="product-grid">
     <div class="card">
-      <img src="product1.jpg" alt="Товар 1">
+      <img src="product1.jpg" alt="Товар 1" />
       <div class="info">
         <div class="title">Смарт-часы Futura</div>
         <div class="desc">Идеальный помощник для активного дня</div>
@@ -212,7 +233,7 @@
     </div>
 
     <div class="card">
-      <img src="product2.jpg" alt="Товар 2">
+      <img src="product2.jpg" alt="Товар 2" />
       <div class="info">
         <div class="title">Наушники SpaceBass</div>
         <div class="desc">Глубокий звук и комфорт на весь день</div>
@@ -222,7 +243,7 @@
     </div>
 
     <div class="card">
-      <img src="product3.jpg" alt="Товар 3">
+      <img src="product3.jpg" alt="Товар 3" />
       <div class="info">
         <div class="title">Бутылка KeepCool</div>
         <div class="desc">Держит температуру до 12 часов</div>
@@ -232,7 +253,7 @@
     </div>
 
     <div class="card">
-      <img src="product4.jpg" alt="Товар 4">
+      <img src="product4.jpg" alt="Товар 4" />
       <div class="info">
         <div class="title">Рюкзак CityFlow</div>
         <div class="desc">Вместительный и стильный городской рюкзак</div>
@@ -242,7 +263,7 @@
     </div>
 
     <div class="card">
-      <img src="product5.jpg" alt="Товар 5">
+      <img src="product5.jpg" alt="Товар 5" />
       <div class="info">
         <div class="title">Светильник AuraLight</div>
         <div class="desc">Создаёт уютное мягкое освещение</div>
@@ -252,7 +273,7 @@
     </div>
 
     <div class="card">
-      <img src="product6.jpg" alt="Товар 6">
+      <img src="product6.jpg" alt="Товар 6" />
       <div class="info">
         <div class="title">Клавиатура SoftKeys</div>
         <div class="desc">Бесшумная и эргономичная</div>
@@ -262,18 +283,39 @@
     </div>
   </div>
 
-  <div class="particles">
-    <!-- создадим 30 частиц -->
-    <script>
-      for (let i = 0; i < 30; i++) {
-        const span = document.createElement('span');
-        span.style.left = Math.random() * 100 + 'vw';
-        span.style.animationDuration = (6 + Math.random() * 4) + 's';
-        span.style.opacity = 0.2 + Math.random() * 0.6;
-        document.querySelector('.particles').appendChild(span);
-      }
-    </script>
+  <!-- Лайтбокс -->
+  <div class="lightbox-overlay" id="lightbox">
+    <div class="lightbox-content">
+      <span class="lightbox-close" id="lightbox-close">&times;</span>
+      <img src="" alt="Просмотр" id="lightbox-img" />
+    </div>
   </div>
 
+  <script>
+    const cards = document.querySelectorAll('.card img');
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+    const lightboxClose = document.getElementById('lightbox-close');
+
+    cards.forEach(img => {
+      img.addEventListener('click', () => {
+        lightboxImg.src = img.src;
+        lightbox.classList.add('active');
+        document.body.style.overflow = 'hidden'; // Отключаем скролл при открытом лайтбоксе
+      });
+    });
+
+    lightboxClose.addEventListener('click', () => {
+      lightbox.classList.remove('active');
+      document.body.style.overflow = '';
+    });
+
+    lightbox.addEventListener('click', (e) => {
+      if (e.target === lightbox) {
+        lightbox.classList.remove('active');
+        document.body.style.overflow = '';
+      }
+    });
+  </script>
 </body>
 </html>
