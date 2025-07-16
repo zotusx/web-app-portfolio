@@ -28,13 +28,11 @@
       color: #ff004c;
       margin: 0.5em 0 0.2em;
       text-shadow: 0 0 5px #ff004c;
-      animation: fadeIn 1s ease-in-out;
     }
     p {
       font-size: 1.2rem;
       margin-bottom: 2em;
       color: #ccc;
-      animation: fadeIn 1.5s ease-in-out;
     }
     .buttons {
       display: flex;
@@ -76,7 +74,6 @@
       padding: 1rem;
       border-radius: 10px;
       box-shadow: 0 0 8px #00ffe1;
-      animation: fadeInUp 1s ease-in-out;
     }
     .button-block a {
       color: #00ffe1;
@@ -86,31 +83,25 @@
     .button-block a:hover {
       text-decoration: underline;
     }
-    @keyframes fadeIn {
-      from {opacity: 0; transform: translateY(-10px);}
-      to {opacity: 1; transform: translateY(0);}
+    .skills-list {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      margin-top: 1rem;
     }
-    @keyframes fadeInUp {
-      from {opacity: 0; transform: translateY(20px);}
-      to {opacity: 1; transform: translateY(0);}
+    .skill-block {
+      background: #1a1a1d;
+      padding: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 0 6px #ff004c;
     }
-    @media (max-width: 600px) {
-      h1 {
-        font-size: 2rem;
-      }
-      .btn {
-        font-size: 0.9rem;
-        padding: 0.6em 1.2em;
-      }
-    }
-    footer {
-      margin-top: 3rem;
-      font-size: 0.9rem;
-      color: #777;
-    }
-    footer a {
+    .skill-block h3 {
+      margin: 0 0 0.5rem;
       color: #00ffe1;
-      text-decoration: none;
+    }
+    .skill-block p {
+      margin: 0;
+      color: #ccc;
     }
   </style>
 </head>
@@ -136,22 +127,27 @@
         <a href="https://zotusx.github.io/web-app-portfolio/cafe-vanilla/index.html">Кафе "Ваниль"</a>
       </div>
       <div class="button-block">
-        <a href="https://zotusx.github.io/web-app-portfolio/base-shop">Сайт Онлайн-магазин</a>
+        <a href="https://zotusx.github.io/web-app-portfolio/base-shop">Шаблон онлайн-магазина</a>
       </div>
     </section>
 
     <section id="skills">
       <h2>Что я умею</h2>
-      <div class="button-block">HTML, CSS, адаптивная верстка</div>
-      <div class="button-block">JavaScript и анимации</div>
-      <div class="button-block">Создание Telegram-ботов</div>
-      <div class="button-block">GDevelop и игры для веба</div>
-      <div class="button-block">Работа с хостингом и GitHub Pages</div>
+      <div class="skills-list">
+        <div class="skill-block">
+          <h3>Веб-разработка</h3>
+          <p>HTML, CSS, JavaScript, адаптивная верстка, анимации, GitHub Pages</p>
+        </div>
+        <div class="skill-block">
+          <h3>Создание Telegram-ботов</h3>
+          <p>Автоматизация, приём заявок, чат-боты, интеграции с API</p>
+        </div>
+        <div class="skill-block">
+          <h3>UI/UX и дизайн</h3>
+          <p>Тёмные темы, глич-эффекты, кастомные стили, визуальная эстетика</p>
+        </div>
+      </div>
     </section>
   </main>
-
-  <footer>
-    <p>Мой сайт: <a href="https://zotus.ru" target="_blank">zotus.ru</a></p>
-  </footer>
 </body>
 </html>
