@@ -3,204 +3,195 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Магазин • Карточки товара</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <title>Магазин • Карточки товара с частицами и лайтбоксом</title>
   <style>
+    /* --- Основные переменные и сброс --- */
     :root {
-      --bg: #f9f9f9;
-      --text: #222;
-      --primary: #4b7bec;
-      --accent: #f1f1f1;
-      --star: #ffbe0b;
       --pink: #ff4da6;
+      --pink-light: #ff80bf;
+      --bg: #1a0a1e;
+      --text: #f0e6f7;
+      --star: #ffbe0b;
     }
-
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
-
     body {
-      font-family: 'Inter', sans-serif;
+      font-family: 'Arial', sans-serif;
       background: var(--bg);
       color: var(--text);
+      min-height: 100vh;
+      overflow-x: hidden;
+      position: relative;
       padding: 40px 20px;
     }
-
     h1 {
       text-align: center;
-      font-size: 2.5rem;
-      margin-bottom: 40px;
+      font-weight: 700;
+      font-size: 2.8rem;
+      margin-bottom: 50px;
+      text-shadow: 0 0 10px var(--pink);
     }
 
+    /* --- Частицы на фоне --- */
+    #particles {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      pointer-events: none;
+      z-index: 0;
+      background: radial-gradient(circle at center, #ff4da6 2px, transparent 5px);
+      background-size: 50px 50px;
+      animation: particlesMove 30s linear infinite;
+      opacity: 0.2;
+    }
+    @keyframes particlesMove {
+      from {
+        background-position: 0 0;
+      }
+      to {
+        background-position: 100px 100px;
+      }
+    }
+
+    /* --- Сетка карточек --- */
     .product-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
       gap: 30px;
       max-width: 1200px;
-      margin: auto;
-    }
-
-    .card {
-      background: #fff;
-      border-radius: 16px;
-      overflow: hidden;
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+      margin: 0 auto;
       position: relative;
-      transition: transform 0.3s ease;
+      z-index: 1;
+    }
+
+    /* --- Карточка --- */
+    .card {
+      background: #2d1534;
+      border-radius: 20px;
+      box-shadow: 0 0 20px var(--pink-light);
+      overflow: hidden;
       cursor: pointer;
+      transition: transform 0.3s ease;
+      display: flex;
+      flex-direction: column;
     }
-
     .card:hover {
-      transform: translateY(-5px);
+      transform: translateY(-10px);
+      box-shadow: 0 0 40px var(--pink);
     }
 
+    /* --- Квадратное фото --- */
     .card img {
       width: 100%;
-      aspect-ratio: 1 / 1;
+      aspect-ratio: 1 / 1; /* квадрат */
       object-fit: cover;
+      border-radius: 20px 20px 0 0;
       transition: transform 0.3s ease;
       display: block;
-      border-radius: 16px 16px 0 0;
     }
-
     .card:hover img {
       transform: scale(1.05);
     }
 
+    /* --- Информация --- */
     .info {
-      padding: 20px;
+      padding: 15px 20px 25px;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
     }
-
     .title {
-      font-size: 1.2rem;
-      font-weight: 600;
-      margin-bottom: 8px;
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 6px;
+      color: var(--pink-light);
+      text-shadow: 0 0 6px var(--pink);
     }
-
     .desc {
       font-size: 0.95rem;
-      color: #666;
+      color: #d3a3c8;
       margin-bottom: 12px;
+      flex-grow: 1;
     }
-
     .rating {
       color: var(--star);
-      margin-bottom: 16px;
+      font-size: 1.2rem;
+      margin-bottom: 12px;
     }
-
     .buy-btn {
       display: none;
-      position: absolute;
-      bottom: 20px;
-      left: 50%;
-      transform: translateX(-50%);
-      background: var(--primary);
-      color: #fff;
-      padding: 12px 20px;
+      background: var(--pink);
       border: none;
-      border-radius: 8px;
-      font-weight: bold;
+      padding: 12px 20px;
+      border-radius: 12px;
+      font-weight: 700;
+      color: #fff;
+      text-align: center;
       text-decoration: none;
       transition: background 0.3s ease;
-      z-index: 2;
     }
-
-    .card:hover .buy-btn {
-      display: inline-block;
-    }
-
     .buy-btn:hover {
-      background: #3a60d1;
+      background: #ff79c6;
+    }
+    .card:hover .buy-btn {
+      display: block;
     }
 
-    .cart {
-      position: fixed;
-      top: 20px;
-      right: 20px;
-      background: #fff;
-      border-radius: 50%;
-      width: 50px;
-      height: 50px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      cursor: pointer;
-      z-index: 100;
-    }
-
-    .cart-icon {
-      width: 24px;
-      height: 24px;
-      background: url('https://cdn-icons-png.flaticon.com/512/1170/1170678.png') no-repeat center/contain;
-    }
-
-    @media (max-width: 600px) {
-      .card img {
-        height: 200px;
-      }
-    }
-
-    /* Лайтбокс */
+    /* --- Лайтбокс --- */
     .lightbox-overlay {
       position: fixed;
       top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(0, 0, 0, 0.75);
+      background: rgba(0,0,0,0.85);
       display: none;
       justify-content: center;
       align-items: center;
       z-index: 9999;
+      padding: 20px;
     }
-
     .lightbox-overlay.active {
       display: flex;
     }
-
     .lightbox-content {
       position: relative;
       max-width: 90vw;
       max-height: 90vh;
       border-radius: 20px;
+      box-shadow: 0 0 50px var(--pink);
       overflow: hidden;
-      box-shadow: 0 0 30px rgba(255, 77, 166, 0.7);
       animation: fadeInScale 0.3s ease forwards;
-      background: #111;
+      background: #3a1d4d;
     }
-
     .lightbox-content img {
       width: 100%;
       height: 100%;
       object-fit: contain;
       display: block;
-      border-radius: 20px;
     }
-
     .lightbox-close {
       position: absolute;
-      top: 15px;
-      right: 15px;
-      width: 32px;
-      height: 32px;
-      cursor: pointer;
+      top: 10px;
+      right: 10px;
+      width: 36px;
+      height: 36px;
       background: var(--pink);
       border-radius: 50%;
       color: white;
-      font-size: 24px;
-      line-height: 32px;
+      font-weight: 900;
+      font-size: 28px;
+      line-height: 36px;
       text-align: center;
-      font-weight: bold;
-      box-shadow: 0 0 10px var(--pink);
+      cursor: pointer;
+      box-shadow: 0 0 15px var(--pink);
       user-select: none;
       transition: background 0.3s ease;
       z-index: 10000;
     }
-
     .lightbox-close:hover {
-      background: #e6369e;
+      background: #ff79c6;
     }
-
     @keyframes fadeInScale {
       0% {
         opacity: 0;
@@ -211,19 +202,32 @@
         transform: scale(1);
       }
     }
+
+    /* --- Адаптив --- */
+    @media (max-width: 600px) {
+      body {
+        padding: 20px 15px;
+      }
+      h1 {
+        font-size: 2rem;
+        margin-bottom: 30px;
+      }
+      .product-grid {
+        gap: 20px;
+      }
+    }
   </style>
 </head>
 <body>
 
-  <div class="cart" title="Корзина">
-    <div class="cart-icon"></div>
-  </div>
+  <!-- Частицы на фоне -->
+  <div id="particles"></div>
 
   <h1>Наши товары</h1>
 
   <div class="product-grid">
     <div class="card">
-      <img src="product1.jpg" alt="Товар 1" />
+      <img src="https://picsum.photos/id/1011/600/600" alt="Товар 1" />
       <div class="info">
         <div class="title">Смарт-часы Futura</div>
         <div class="desc">Идеальный помощник для активного дня</div>
@@ -233,7 +237,7 @@
     </div>
 
     <div class="card">
-      <img src="product2.jpg" alt="Товар 2" />
+      <img src="https://picsum.photos/id/1012/600/600" alt="Товар 2" />
       <div class="info">
         <div class="title">Наушники SpaceBass</div>
         <div class="desc">Глубокий звук и комфорт на весь день</div>
@@ -243,7 +247,7 @@
     </div>
 
     <div class="card">
-      <img src="product3.jpg" alt="Товар 3" />
+      <img src="https://picsum.photos/id/1013/600/600" alt="Товар 3" />
       <div class="info">
         <div class="title">Бутылка KeepCool</div>
         <div class="desc">Держит температуру до 12 часов</div>
@@ -253,7 +257,7 @@
     </div>
 
     <div class="card">
-      <img src="product4.jpg" alt="Товар 4" />
+      <img src="https://picsum.photos/id/1014/600/600" alt="Товар 4" />
       <div class="info">
         <div class="title">Рюкзак CityFlow</div>
         <div class="desc">Вместительный и стильный городской рюкзак</div>
@@ -263,7 +267,7 @@
     </div>
 
     <div class="card">
-      <img src="product5.jpg" alt="Товар 5" />
+      <img src="https://picsum.photos/id/1015/600/600" alt="Товар 5" />
       <div class="info">
         <div class="title">Светильник AuraLight</div>
         <div class="desc">Создаёт уютное мягкое освещение</div>
@@ -273,7 +277,7 @@
     </div>
 
     <div class="card">
-      <img src="product6.jpg" alt="Товар 6" />
+      <img src="https://picsum.photos/id/1016/600/600" alt="Товар 6" />
       <div class="info">
         <div class="title">Клавиатура SoftKeys</div>
         <div class="desc">Бесшумная и эргономичная</div>
@@ -292,16 +296,16 @@
   </div>
 
   <script>
-    const cards = document.querySelectorAll('.card img');
+    const cardsImgs = document.querySelectorAll('.card img');
     const lightbox = document.getElementById('lightbox');
     const lightboxImg = document.getElementById('lightbox-img');
     const lightboxClose = document.getElementById('lightbox-close');
 
-    cards.forEach(img => {
+    cardsImgs.forEach(img => {
       img.addEventListener('click', () => {
         lightboxImg.src = img.src;
         lightbox.classList.add('active');
-        document.body.style.overflow = 'hidden'; // Отключаем скролл при открытом лайтбоксе
+        document.body.style.overflow = 'hidden'; // блокируем скролл при открытом лайтбоксе
       });
     });
 
@@ -310,12 +314,13 @@
       document.body.style.overflow = '';
     });
 
-    lightbox.addEventListener('click', (e) => {
+    lightbox.addEventListener('click', e => {
       if (e.target === lightbox) {
         lightbox.classList.remove('active');
         document.body.style.overflow = '';
       }
     });
   </script>
+
 </body>
 </html>
