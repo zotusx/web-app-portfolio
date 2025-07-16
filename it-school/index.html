@@ -3,18 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>IT-школа для подростков</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto&display=swap" rel="stylesheet">
+  <title>IT-школа будущего</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Rubik+Mono+One&display=swap" rel="stylesheet">
   <style>
     :root {
-      --primary: #7f00ff; /* фиолетовый градиент */
-      --secondary: #e100ff;
-      --accent: #ffcc00;  /* ярко-жёлтый */
-      --bg: #121212;
-      --text: #ffffff;
-      --card-bg: #1f1f1f;
+      --neon-pink: #ff007f;
+      --neon-blue: #00ffe7;
+      --neon-yellow: #fffd54;
+      --bg-dark: #0a0a0a;
+      --card-dark: #131313;
+      --white: #ffffff;
     }
 
     * {
@@ -24,230 +22,204 @@
     }
 
     body {
-      font-family: 'Roboto', sans-serif;
-      background-color: var(--bg);
-      color: var(--text);
-      scroll-behavior: smooth;
+      font-family: 'Orbitron', sans-serif;
+      background: repeating-linear-gradient(
+        45deg,
+        #0a0a0a,
+        #0a0a0a 10px,
+        #111111 10px,
+        #111111 20px
+      );
+      color: var(--white);
+      overflow-x: hidden;
+      animation: bgMove 30s linear infinite;
+    }
+
+    @keyframes bgMove {
+      0% { background-position: 0 0; }
+      100% { background-position: 1000px 0; }
     }
 
     header {
-      padding: 120px 20px;
       text-align: center;
-      background: linear-gradient(135deg, var(--primary), var(--secondary));
+      padding: 120px 30px;
+      background: linear-gradient(135deg, var(--neon-pink), var(--neon-blue));
       color: #fff;
-      position: relative;
-      overflow: hidden;
+      text-shadow: 0 0 20px var(--neon-yellow);
+      box-shadow: 0 0 40px var(--neon-pink);
     }
 
     header h1 {
-      font-family: 'Orbitron', sans-serif;
+      font-family: 'Rubik Mono One', sans-serif;
       font-size: 3.5rem;
       margin-bottom: 20px;
-      text-shadow: 0 2px 10px rgba(0,0,0,0.4);
+      animation: flicker 3s infinite alternate;
+    }
+
+    @keyframes flicker {
+      0% { opacity: 1; text-shadow: 0 0 10px var(--neon-blue); }
+      100% { opacity: 0.85; text-shadow: 0 0 30px var(--neon-pink); }
     }
 
     header p {
-      font-size: 1.4rem;
-      margin-bottom: 30px;
+      font-size: 1.3rem;
+      letter-spacing: 1px;
+      max-width: 800px;
+      margin: 0 auto 30px;
     }
 
     header a {
-      background: var(--accent);
+      background: var(--neon-yellow);
       color: #000;
-      padding: 14px 28px;
+      padding: 14px 32px;
       border-radius: 50px;
-      text-decoration: none;
       font-weight: bold;
-      font-size: 1rem;
+      text-decoration: none;
+      font-size: 1.1rem;
+      box-shadow: 0 0 20px var(--neon-yellow);
       transition: 0.3s;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
     }
 
     header a:hover {
-      transform: scale(1.05);
+      transform: scale(1.1);
+      box-shadow: 0 0 30px var(--neon-yellow);
     }
 
     section {
-      padding: 100px 20px;
+      padding: 100px 30px;
       max-width: 1200px;
       margin: auto;
     }
 
     h2 {
-      font-size: 2.4rem;
-      margin-bottom: 60px;
+      font-size: 2.8rem;
       text-align: center;
-      color: var(--accent);
-      position: relative;
+      color: var(--neon-yellow);
+      margin-bottom: 60px;
+      text-shadow: 0 0 12px var(--neon-yellow);
     }
 
-    h2::after {
-      content: '';
-      display: block;
-      width: 60px;
-      height: 4px;
-      background: var(--accent);
-      margin: 12px auto 0;
-      border-radius: 2px;
-    }
-
-    .cards, .reviews {
+    .cards {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
       gap: 40px;
     }
 
-    .card, .review {
-      background-color: var(--card-bg);
-      padding: 30px;
+    .card {
+      background: var(--card-dark);
+      border: 2px solid var(--neon-pink);
       border-radius: 20px;
-      text-align: center;
-      transition: transform 0.4s ease, box-shadow 0.4s ease;
-      box-shadow: 0 6px 16px rgba(0,0,0,0.25);
+      padding: 30px;
+      box-shadow: 0 0 20px var(--neon-pink);
+      transition: 0.3s;
     }
 
-    .card:hover, .review:hover {
-      transform: translateY(-8px);
-      box-shadow: 0 12px 24px rgba(0,0,0,0.4);
-    }
-
-    .card img, .review img {
-      width: 80px;
-      height: 80px;
-      object-fit: cover;
-      border-radius: 50%;
-      margin-bottom: 20px;
+    .card:hover {
+      transform: scale(1.03);
+      box-shadow: 0 0 30px var(--neon-blue);
     }
 
     .card h3 {
-      font-size: 1.5rem;
-      margin-bottom: 12px;
-      color: var(--accent);
+      color: var(--neon-blue);
+      font-size: 1.6rem;
+      margin-bottom: 20px;
     }
 
-    .card p, .review p {
+    .card p {
+      color: #ccc;
       font-size: 1rem;
       line-height: 1.6;
-      color: #ddd;
     }
 
     .form-section form {
+      background: var(--card-dark);
+      padding: 40px;
+      border-radius: 16px;
+      box-shadow: 0 0 30px var(--neon-yellow);
       display: flex;
       flex-direction: column;
       gap: 20px;
       max-width: 500px;
       margin: auto;
-      background: var(--card-bg);
-      padding: 40px;
-      border-radius: 16px;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.3);
     }
 
     .form-section input {
       padding: 16px;
-      border: none;
-      border-radius: 10px;
       font-size: 1rem;
-      background: #2c2c2c;
-      color: white;
+      background: #1e1e1e;
+      color: var(--white);
+      border: 1px solid var(--neon-pink);
+      border-radius: 10px;
     }
 
     .form-section button {
-      background: var(--accent);
-      color: var(--bg);
-      padding: 16px;
+      background: var(--neon-blue);
       border: none;
-      border-radius: 10px;
+      padding: 16px;
+      color: #000;
       font-weight: bold;
-      font-size: 1rem;
-      cursor: pointer;
-      transition: 0.3s;
+      font-size: 1.1rem;
+      border-radius: 10px;
+      box-shadow: 0 0 15px var(--neon-blue);
+      transition: 0.2s;
     }
 
     .form-section button:hover {
-      opacity: 0.95;
+      transform: scale(1.05);
+      box-shadow: 0 0 30px var(--neon-blue);
     }
 
     footer {
+      background: #000;
+      color: #999;
       text-align: center;
       padding: 40px 20px;
       font-size: 0.9rem;
-      color: #aaa;
-      background: #1a1a1a;
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>IT-школа будущего</h1>
-    <p>Современные технологии для подростков 12–16 лет</p>
-    <a href="https://t.me/zotus" target="_blank">Записаться</a>
+    <h1>IT-ШКОЛА БУДУЩЕГО</h1>
+    <p>Здесь рождаются хакеры, кодеры, изобретатели. Возраст 12–16? Идеально. Мы дадим вам силу цифры.</p>
+    <a href="https://t.me/zotus" target="_blank">ВСТУПИТЬ</a>
   </header>
 
   <section>
-    <h2>Программа курсов</h2>
+    <h2>Программа</h2>
     <div class="cards">
       <div class="card">
-        <img src="web.png" alt="Web Development">
-        <h3>Web-разработка</h3>
-        <p>Создание сайтов с нуля: HTML, CSS, JavaScript</p>
+        <h3>WEB-РАЗРАБОТКА</h3>
+        <p>Создай сайты, которые ломают стереотипы. От структуры до динамики. HTML, CSS, JavaScript — твой трёхглавый дракон.</p>
       </div>
       <div class="card">
-        <img src="python.png" alt="Python">
-        <h3>Python</h3>
-        <p>Программирование, автоматизация и первые проекты на Python</p>
+        <h3>PYTHON</h3>
+        <p>Научись писать код, который думает. Автоматизация, чат-боты, логика. Python — язык силы и скорости.</p>
       </div>
       <div class="card">
-        <img src="csharp.png" alt="C#">
-        <h3>C#</h3>
-        <p>Разработка приложений и игр на языке C#</p>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <h2>Отзывы родителей</h2>
-    <div class="reviews">
-      <div class="review">
-        <img src="parent1.jpg" alt="Родитель 1">
-        <p>Мой сын с нетерпением ждал каждого занятия. Спасибо за такой подход!</p>
-      </div>
-      <div class="review">
-        <img src="parent2.jpg" alt="Родитель 2">
-        <p>Очень доволен качеством обучения. Видно, что преподаватели — профессионалы.</p>
-      </div>
-      <div class="review">
-        <img src="parent3.jpg" alt="Родитель 3">
-        <p>Дочка начала понимать программирование и хочет продолжать!</p>
-      </div>
-      <div class="review">
-        <img src="parent4.jpg" alt="Родитель 4">
-        <p>Отличная школа с внимательным подходом к каждому ребёнку.</p>
-      </div>
-      <div class="review">
-        <img src="parent5.jpg" alt="Родитель 5">
-        <p>Спасибо за вдохновение! Сын загорелся IT и хочет стать разработчиком.</p>
+        <h3>C# + UNITY</h3>
+        <p>Игры. Интерфейсы. Системы. Мы покажем, как создавать целые миры с помощью C# и Unity. От клика до кат-сцены.</p>
       </div>
     </div>
   </section>
 
   <section class="form-section">
-    <h2>Оставьте заявку</h2>
+    <h2>Хочешь попасть в будущее?</h2>
     <form onsubmit="submitForm(event)">
       <input type="text" placeholder="Имя" required>
       <input type="text" placeholder="Фамилия" required>
-      <button type="submit">Отправить</button>
+      <button type="submit">Отправить заявку</button>
     </form>
   </section>
 
   <footer>
-    &copy; 2025 IT-школа будущего. Все права защищены.
+    &copy; 2025 IT-школа будущего. Все права защищены. Мы не просто обучаем — мы прокачиваем.
   </footer>
 
   <script>
     function submitForm(e) {
       e.preventDefault();
-      alert("Спасибо! Мы скоро с вами свяжемся.");
+      alert("🔥 Заявка отправлена! Скоро с вами свяжемся.");
     }
   </script>
 </body>
