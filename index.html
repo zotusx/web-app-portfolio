@@ -1,70 +1,72 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Портфолио Zotus</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zotus — Веб-разработчик</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: #0f1123;
-      color: #fff;
-      padding: 40px 20px;
+      font-family: 'Share Tech Mono', monospace;
+      background-color: #0f0f11;
+      color: #f5f5f5;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      overflow: hidden;
     }
-
     h1 {
-      text-align: center;
-      font-size: 2.5rem;
-      margin-bottom: 60px;
+      font-size: 3rem;
+      color: #ff004c;
+      margin: 0.5em 0 0.2em;
+      text-shadow: 0 0 5px #ff004c;
     }
-
-    .button-block {
-      max-width: 600px;
-      margin: 0 auto 20px;
-      background-color: #1b1e3a;
-      border: 1px solid #2e3054;
-      border-radius: 12px;
-      padding: 20px;
-      text-align: center;
-      transition: background 0.3s;
-    }
-
-    .button-block:hover {
-      background-color: #25294e;
-    }
-
-    .button-block a {
-      text-decoration: none;
-      color: #ffd700;
+    p {
       font-size: 1.2rem;
-      font-weight: bold;
-      display: inline-block;
+      margin-bottom: 2em;
+      color: #ccc;
     }
-
-    .button-block a:hover {
-      text-decoration: underline;
+    .buttons {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .btn {
+      background: #00ffe1;
+      color: #0f0f11;
+      padding: 0.8em 1.5em;
+      border: none;
+      font-size: 1rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: 0.3s;
+      text-decoration: none;
+      box-shadow: 0 0 10px #00ffe1;
+    }
+    .btn:hover {
+      background: #0f0f11;
+      color: #00ffe1;
+      box-shadow: 0 0 15px #00ffe1;
+      border: 1px solid #00ffe1;
     }
   </style>
 </head>
 <body>
-  <h1>Портфолио Zotus</h1>
-
-  <div class="button-block">
-    <a href="https://zotusx.github.io/web-app-portfolio/it-school">Сайт IT-Школы</a>
-  </div>
-  <div class="button-block">
-    <a href="https://zotusx.github.io/web-app-portfolio/anna-ivanovna">Дизайнер Анна Ивановна</a>
-  </div>
-  <div class="button-block">
-    <a href="https://zotusx.github.io/web-app-portfolio/cafe-vanilla/index.html">Кафе "Ваниль"</a>
-  </div>
-  <div class="button-block">
-    <a href="https://zotusx.github.io/web-app-portfolio/base-shop/index.html">Сайт Интернет-магазина</a>
-  </div>
-  <div class="button-block">
-    <a href="#">Проект 5</a>
-  </div>
-
+  <main>
+    <h1>Zotus — веб-разработчик</h1>
+    <p>Создаю сайты и Telegram-ботов под ключ</p>
+    <div class="buttons">
+      <a href="#projects" class="btn">Мои проекты</a>
+      <a href="https://t.me/zotus" class="btn">Связаться</a>
+      <a href="#skills" class="btn">Что я умею</a>
+    </div>
+  </main>
 </body>
 </html>
