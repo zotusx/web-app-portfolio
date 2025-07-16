@@ -8,6 +8,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
   <style>
+    html {
+      scroll-behavior: smooth;
+    }
     body {
       margin: 0;
       font-family: 'Share Tech Mono', monospace;
@@ -25,11 +28,13 @@
       color: #ff004c;
       margin: 0.5em 0 0.2em;
       text-shadow: 0 0 5px #ff004c;
+      animation: fadeIn 1s ease-in-out;
     }
     p {
       font-size: 1.2rem;
       margin-bottom: 2em;
       color: #ccc;
+      animation: fadeIn 1.5s ease-in-out;
     }
     .buttons {
       display: flex;
@@ -56,12 +61,12 @@
       box-shadow: 0 0 15px #00ffe1;
       border: 1px solid #00ffe1;
     }
-    #projects {
+    #projects, #skills {
       width: 100%;
       max-width: 600px;
       padding: 1rem;
     }
-    #projects h2 {
+    #projects h2, #skills h2 {
       color: #ff004c;
       margin-bottom: 1rem;
     }
@@ -71,6 +76,7 @@
       padding: 1rem;
       border-radius: 10px;
       box-shadow: 0 0 8px #00ffe1;
+      animation: fadeInUp 1s ease-in-out;
     }
     .button-block a {
       color: #00ffe1;
@@ -79,6 +85,32 @@
     }
     .button-block a:hover {
       text-decoration: underline;
+    }
+    @keyframes fadeIn {
+      from {opacity: 0; transform: translateY(-10px);}
+      to {opacity: 1; transform: translateY(0);}
+    }
+    @keyframes fadeInUp {
+      from {opacity: 0; transform: translateY(20px);}
+      to {opacity: 1; transform: translateY(0);}
+    }
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2rem;
+      }
+      .btn {
+        font-size: 0.9rem;
+        padding: 0.6em 1.2em;
+      }
+    }
+    footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+    footer a {
+      color: #00ffe1;
+      text-decoration: none;
     }
   </style>
 </head>
@@ -107,6 +139,19 @@
         <a href="https://zotusx.github.io/web-app-portfolio/base-portfolio">Базовый сайт-портфолио</a>
       </div>
     </section>
+
+    <section id="skills">
+      <h2>Что я умею</h2>
+      <div class="button-block">HTML, CSS, адаптивная верстка</div>
+      <div class="button-block">JavaScript и анимации</div>
+      <div class="button-block">Создание Telegram-ботов</div>
+      <div class="button-block">GDevelop и игры для веба</div>
+      <div class="button-block">Работа с хостингом и GitHub Pages</div>
+    </section>
   </main>
+
+  <footer>
+    <p>Мой сайт: <a href="https://zotus.ru" target="_blank">zotus.ru</a></p>
+  </footer>
 </body>
 </html>
