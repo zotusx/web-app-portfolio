@@ -8,9 +8,10 @@
   <style>
     :root {
       --cream: #fdf6ec;
-      --choco: #5e3c2f;
-      --rose: #f7cdd0;
-      --accent: #e4b7a0;
+      --choco: #3e2c24;
+      --rose: #f4d1d4;
+      --accent: #d7a88e;
+      --brown-dark: #2e1e17;
     }
 
     * {
@@ -24,137 +25,132 @@
       background: var(--cream);
       color: var(--choco);
       scroll-behavior: smooth;
+      line-height: 1.6;
     }
 
     h1, h2, h3 {
       font-family: 'Playfair Display', serif;
-      color: var(--choco);
+      color: var(--brown-dark);
     }
 
     header {
-      background: var(--rose);
-      padding: 80px 20px;
+      background: linear-gradient(135deg, var(--rose), var(--accent));
+      padding: 100px 20px 60px;
       text-align: center;
+      border-bottom: 5px dotted var(--accent);
     }
 
     header h1 {
-      font-size: 3rem;
-      margin-bottom: 10px;
+      font-size: 3.5rem;
+      margin-bottom: 15px;
+      text-shadow: 1px 1px var(--choco);
     }
 
     header p {
       font-size: 1.2rem;
-      opacity: 0.8;
+      opacity: 0.85;
+      max-width: 500px;
+      margin: 0 auto;
     }
 
     section {
-      padding: 60px 20px;
+      padding: 80px 20px;
       max-width: 1100px;
       margin: auto;
+      border-bottom: 1px dashed var(--accent);
     }
 
     .menu-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 30px;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 35px;
     }
 
     .dish {
-      background: #fff8f2;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 5px 10px rgba(0,0,0,0.05);
-      position: relative;
-      transition: transform 0.3s;
+      background: #fffaf7;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+      border: 2px dashed var(--rose);
+      transition: all 0.4s;
+      font-weight: 600;
     }
 
     .dish:hover {
-      transform: translateY(-5px);
+      transform: scale(1.02);
+      background: #fff2ec;
     }
 
     .dish::after {
       content: attr(data-info);
-      position: absolute;
-      bottom: 10px;
-      left: 20px;
-      right: 20px;
+      display: block;
+      margin-top: 15px;
       background: var(--accent);
       color: #fff;
-      padding: 8px;
+      padding: 6px 10px;
       border-radius: 8px;
       font-size: 0.9rem;
-      opacity: 0;
-      transform: translateY(10px);
-      transition: all 0.3s;
-      pointer-events: none;
+      text-align: center;
     }
 
-    .dish:hover::after {
-      opacity: 1;
-      transform: translateY(0);
-    }
-
-    /* Карусель отзывов */
     .carousel-wrapper {
       position: relative;
       overflow: hidden;
       max-width: 1000px;
       margin: 0 auto;
+      border: 2px dashed var(--rose);
+      border-radius: 12px;
+      background: #fffdfc;
     }
 
     .carousel {
       display: flex;
-      gap: 20px;
+      gap: 25px;
       overflow-x: auto;
       scroll-behavior: smooth;
-      padding: 10px;
+      padding: 20px;
     }
 
     .carousel::-webkit-scrollbar {
-      display: none;
+      height: 6px;
+    }
+
+    .carousel::-webkit-scrollbar-thumb {
+      background: var(--accent);
+      border-radius: 10px;
     }
 
     .review {
-      flex: 0 0 300px;
-      background: #fff;
-      border-left: 4px solid var(--accent);
-      padding: 20px;
+      flex: 0 0 320px;
+      background: #fff8f3;
+      border-left: 6px double var(--accent);
+      padding: 25px;
       border-radius: 10px;
-      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
     }
 
     .carousel-btn {
       position: absolute;
       top: 50%;
       transform: translateY(-50%);
-      background: rgba(228, 183, 160, 0.7);
+      background: var(--accent);
       border: none;
       color: white;
-      font-size: 2rem;
-      padding: 10px 14px;
+      font-size: 1.8rem;
+      padding: 10px 16px;
       border-radius: 50%;
       cursor: pointer;
-      transition: background 0.3s;
-      z-index: 10;
+      z-index: 5;
     }
 
-    .carousel-btn:hover {
-      background: rgba(228, 183, 160, 1);
-    }
-
-    .carousel-btn.left {
-      left: -10px;
-    }
-
-    .carousel-btn.right {
-      right: -10px;
-    }
+    .carousel-btn.left { left: -15px; }
+    .carousel-btn.right { right: -15px; }
 
     .map-block {
-      background: #fceee5;
-      padding: 30px;
-      border-radius: 10px;
-      text-align: center;
+      background: #fff1ea;
+      padding: 40px;
+      border-radius: 12px;
+      border: 2px dashed var(--accent);
     }
 
     .reservation {
@@ -166,29 +162,29 @@
       margin: 0 auto;
       display: flex;
       flex-direction: column;
-      gap: 15px;
+      gap: 20px;
     }
 
     input {
-      padding: 12px;
+      padding: 14px;
       font-size: 1rem;
-      border: 1px solid #ccc;
-      border-radius: 8px;
+      border: 2px dashed #ccc;
+      border-radius: 10px;
     }
 
     button {
       background: var(--accent);
       color: #fff;
       font-weight: bold;
-      padding: 12px;
+      padding: 14px;
       border: none;
-      border-radius: 8px;
+      border-radius: 10px;
       cursor: pointer;
       transition: background 0.3s;
     }
 
     button:hover {
-      background: #d8a385;
+      background: #bb8870;
     }
 
     footer {
@@ -196,6 +192,7 @@
       text-align: center;
       padding: 30px;
       font-size: 0.9rem;
+      font-style: italic;
     }
 
     .fade-up {
@@ -276,18 +273,12 @@
 
     function scrollCarousel(direction) {
       const carousel = document.getElementById('carousel');
-      const cardWidth = carousel.querySelector('.review').offsetWidth + 20;
-      carousel.scrollBy({
-        left: direction * cardWidth,
-        behavior: 'smooth'
-      });
+      const cardWidth = carousel.querySelector('.review').offsetWidth + 25;
+      carousel.scrollBy({ left: direction * cardWidth, behavior: 'smooth' });
     }
 
     const faders = document.querySelectorAll('.fade-up');
-    const options = {
-      threshold: 0.1
-    };
-
+    const options = { threshold: 0.1 };
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting) {
@@ -300,4 +291,3 @@
   </script>
 </body>
 </html>
-
