@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Zotus One — Продукт будущего</title>
   <style>
     * {
@@ -16,11 +16,16 @@
       background-color: #fff;
       color: #000;
       line-height: 1.6;
+      overflow-x: hidden;
     }
 
     header {
       padding: 100px 20px 40px;
       text-align: center;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 1s forwards;
+      animation-delay: 0.2s;
     }
 
     header h1 {
@@ -37,6 +42,10 @@
     .image-section {
       text-align: center;
       margin: 60px 0;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 1s forwards;
+      animation-delay: 0.6s;
     }
 
     .image-section img {
@@ -74,6 +83,14 @@
     .feature {
       max-width: 250px;
       text-align: center;
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .feature.visible {
+      opacity: 1;
+      transform: translateY(0);
     }
 
     .feature h3 {
@@ -86,6 +103,17 @@
       padding: 40px 20px;
       font-size: 14px;
       color: #777;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 1s forwards;
+      animation-delay: 0.8s;
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
 
     @media (max-width: 600px) {
@@ -138,6 +166,28 @@
   <div class="footer">
     © 2025 Zotus. Все права защищены.
   </div>
+
+  <script>
+    // Появление блоков при скролле
+    function onEntry(entry) {
+      entry.forEach(change => {
+        if (change.isIntersecting) {
+          change.target.classList.add('visible');
+        }
+      });
+    }
+
+    let options = {
+      threshold: [0.1]
+    };
+
+    let observer = new IntersectionObserver(onEntry, options);
+    let elements = document.querySelectorAll('.feature');
+
+    for(let elm of elements) {
+      observer.observe(elm);
+    }
+  </script>
 
 </body>
 </html>
