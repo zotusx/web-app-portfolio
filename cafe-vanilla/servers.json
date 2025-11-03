@@ -4,6 +4,11 @@
         "flag": "flags/lt.png",
         "ping": "Новый"
     },
+    "Сингапур": {
+        "url": "vless://64bf9c97-212c-4814-ad17-f8539b53a8bd@152.42.241.71:8443?encryption=none&type=ws&host=vless.pengjiajin.sbs&path=%2FTelegram%40freecodes%2F&security=tls&sni=vless.pengjiajin.sbs#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-11",
+        "flag": "flags/sg.png",
+        "ping": "Новый"
+    },
     "Россия (Для YouTube, Discord)": {
         "url": "vless://109587f3-8999-4276-971e-cf3bc9208b21@pl.sky-vault.top:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=pl.sky-vault.top&fp=chrome&pbk=pdbyoI6hVZfb3R9kNNvNJzAo_Z1K7g_nqHVvcLdBZT4&sid=b2247081ccf30527#%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%9A%A1",
         "flag": "flags/at.png",
