@@ -1,0 +1,27 @@
+{       
+    "Париж, Франция": {
+        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode=gun&security=none#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-37752",
+        "flag": "flags/fr.png",
+        "ping": "Скоростной"
+    },
+    "Лимбург-ан-дер-Лан, Германия": {
+        "url": "vless://41918f0b-d0c4-401c-841b-c78ea5e29898@51.68.191.233:80?security=none&fp=chrome&type=ws&path=/vless/&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-89",
+        "flag": "flags/de.png",
+        "ping": "Новый"
+    },
+    "Россия (Для YouTube, Discord)": {
+        "url": "vless://109587f3-8999-4276-971e-cf3bc9208b21@pl.sky-vault.top:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=pl.sky-vault.top&fp=chrome&pbk=pdbyoI6hVZfb3R9kNNvNJzAo_Z1K7g_nqHVvcLdBZT4&sid=b2247081ccf30527#%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%9A%A1",
+        "flag": "flags/at.png",
+        "ping": "Новый / 1 мс"
+    },
+    "Амстердам, Нидерланды": {
+        "url": "vless://2e23b585-a486-4541-83d8-5832a1409c6e@31.207.44.210:32155/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=6-b7u_t7wG_jbda_lucHW4Au9biBl1E0tA2Zkqm8mSw&sid=737af772#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-27",
+        "flag": "flags/nl.png",
+        "ping": "Новый"
+    },
+    "Финляндия": {
+        "url": "vless://2e23b585-a486-4541-83d8-5832a1409c6e@31.207.44.210:32155/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=6-b7u_t7wG_jbda_lucHW4Au9biBl1E0tA2Zkqm8mSw&sid=737af772#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-27",
+        "flag": "flags/fl.png",
+        "ping": "Новый / Усиленное шифрование"
+    }
+}
