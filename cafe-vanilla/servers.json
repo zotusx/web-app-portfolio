@@ -1,6 +1,6 @@
 {       
     "Франкфурт-На-Одере, Германия": {
-        "url": "vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.248:80/?type=grpc&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-1718",
+        "url": "vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.131.13.163:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9%20LT-2",
         "flag": "flags/de.png",
         "ping": "Новый"
     },
