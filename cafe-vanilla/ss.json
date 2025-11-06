@@ -9,15 +9,15 @@
   },
   "\uD83C\uDDF3\uD83C\uDDF1 Амстердам, Нидерланды": {
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080",
-    "about": "WiFi"
-  },
-  "\uD83C\uDDF9\uD83C\uDDF7 Бурса, Турция": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VzNWUENUSjlRZXZRMjMwMERHUjY1@31.210.50.196:12422#🇹🇷[t.me/vaddress] ss-TR",
-    "about": "WiFi"
+    "about": "Скоростной (WiFi)"
   },
   "\uD83C\uDDE9\uD83C\uDDEA Франкфурт-На-Одере": {
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443#🇩🇪[t.me/vaddress] ss-DE",
     "about": "WiFi"
+  },
+  "test": {
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYVIwWmZFV2M0ZGNWOXlheUZ2Y05v@77.83.246.74:443/#Poland",
+    "about": "test"
   },
   "\uD83C\uDDEC\uD83C\uDDE7 Великобритания": {
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvY0xoZGlFWHV0TkRsb2ZIZGZLUEpC@89.185.84.185:443",
