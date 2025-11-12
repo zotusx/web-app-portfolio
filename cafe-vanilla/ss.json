@@ -1,8 +1,4 @@
 {
-  "\uD83C\uDDFA\uD83C\uDDF8 Атланта": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsR1BJZlpyUllUU2pnZ0dHb09LeURD@92.118.112.101:9483#Atlanta,%20GA,%20United%20States",
-    "about": "Скоростной (Универсальный)"
-  },
   "\uD83C\uDDF3\uD83C\uDDF1 Амстердам 2": {
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.191:8080#The%20Netherlands",
     "about": "Скоростной (WiFi)"
@@ -19,12 +15,12 @@
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080",
     "about": "Скоростной (WiFi)"
   },
-  "ТЕСТ": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg@185.156.110.92:443#Croatia",
-    "about": "Скоростной (WiFi)"
-  },
   "\uD83C\uDDE9\uD83C\uDDEA Франкфурт-На-Одере": {
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Z1N1TjhRZ3NNUnhSUXdWOFl3bTY1@31.56.117.24:443#Riga,%20RIX,%20Latvia",
     "about": "WiFi"
+  },
+  "Мадрид": {
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzVjZycjk4NDhPaExhTndzcVpYQUNs@194.87.45.189:443/#Madrid,%20MD,%20Spain",
+    "about": "Скоростной (Мобильная сеть)"
   }
 }
