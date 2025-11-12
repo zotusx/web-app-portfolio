@@ -1,8 +1,4 @@
 {
-  "\uD83C\uDDF5\uD83C\uDDF1 Краков": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwa0diNkRzWnB3MVplMzA4N01MaXNV@77.83.246.74:443/#Poland",
-    "about": "Тестовый Универсальный"
-  },
   "\uD83C\uDDF3\uD83C\uDDF1 Амстердам 2": {
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.191:8080#The%20Netherlands",
     "about": "Скоростной (WiFi)"
@@ -19,9 +15,8 @@
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080",
     "about": "WiFi"
   },
-
   "\uD83C\uDDEA\uD83C\uDDF8 Мадрид": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzVjZycjk4NDhPaExhTndzcVpYQUNs@194.87.45.189:443/#Madrid,%20MD,%20Spain",
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1bzVIUHZIU0s5SFFJamNwUEhTcG5M@194.87.45.189:443#Madrid,%20MD,%20Spain",
     "about": "Скоростной (Мобильная сеть)"
   }
 }
