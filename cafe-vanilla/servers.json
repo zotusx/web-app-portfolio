@@ -2,21 +2,26 @@
     "Меппел, Нидерланды": {
         "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-144",
         "flag": "flags/nl.png",
-        "ping": "Новый"
+        "ping": "Скоростной"
     },
     "Париж, Франция": {
         "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.176:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-143",
         "flag": "flags/fr.png",
+        "ping": "Скоростной"
+    },
+    "Германия": {
+        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@ws.arvancloud.online:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#%5BOpenRay%5D%20Dynamic-337",
+        "flag": "flags/de.png",
         "ping": "Новый"
     },
     "Ковентри, Великобритания": {
         "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840960.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-379",
         "flag": "flags/au.png",
-        "ping": "Новый"
+        "ping": "Обычный"
     },
     "Мадрид, Испания": {
         "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.144:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-16",
         "flag": "flags/es.png",
-        "ping": "Новый"
+        "ping": "Обычный"
     }
 }
