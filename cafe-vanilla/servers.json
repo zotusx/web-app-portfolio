@@ -1,22 +1,7 @@
 {       
-    "Париж, Франция": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.176:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-143",
-        "flag": "flags/fr.png",
-        "ping": "Скоростной"
-    },
-    "Хельсинки, Финляндия": {
-        "url": "vless://31dc0c63-78b8-49bd-8343-52606398861a@hield.ru:3389?type=tcp&encryption=none&security=reality&pbk=brMfFpfxMeNeqGqG0ZmWdwlnvZBfBTY92Jjyfz8Qyz4&fp=ios&sni=google.com&sid=0274c94d298e&spx=%2F&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-24",
-        "flag": "flags/fi.png",
-        "ping": "Новый"
-    },
-    "Ковентри, Великобритания": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342840960.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-379",
-        "flag": "flags/au.png",
-        "ping": "Обычный"
-    },
     "Мадрид, Испания": {
         "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.144:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-16",
         "flag": "flags/es.png",
-        "ping": "Обычный"
+        "ping": "Скоростной"
     }
 }
