@@ -1,7 +1,12 @@
 {       
-    "Мадрид, Испания": {
+    "Мадрид": {
         "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.144:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-16",
         "flag": "flags/es.png",
+        "ping": "Скоростной"
+    },
+    "Париж": {
+        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.224:8880?mode=gun&security=none&encryption=none&type=grpc",
+        "flag": "flags/fr.png",
         "ping": "Скоростной"
     }
 }
