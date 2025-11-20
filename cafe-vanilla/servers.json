@@ -1,11 +1,11 @@
 {       
-    "Вена": {
-        "url": "vless://852650c3-8ae5-4b75-8613-02a197a89309@us8.candyfans.win:443?path=%2Fzonnws&security=tls&encryption=none&host=us8.candyfans.win&type=ws&sni=us8.candyfans.win#%5BOpenRay%5D%20Dynamic-337",
-        "flag": "flags/au.png",
-        "ping": "Скоростной"
+    "Ведутся тех.работы": {
+        "url": "vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=random&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-5836",
+        "flag": "flags/1.png",
+        "ping": "Не работает"
     },
     "Шайенн": {
-        "url": "vless://852650c3-8ae5-4b75-8613-02a197a89309@us8.candyfans.win:443?path=%2Fzonnws&security=tls&encryption=none&host=us8.candyfans.win&type=ws&sni=us8.candyfans.win#%5BOpenRay%5D%20Dynamic-337",
+        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?security=none&encryption=none&type=ws&host=cdn.ir&path=/news#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-1293",
         "flag": "flags/us.png",
         "ping": "Не работает"
     }
