@@ -1,12 +1,12 @@
 {       
-    "Мадрид": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.144:8880?encryption=none&security=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8%20ES-16",
-        "flag": "flags/es.png",
+    "Вена": {
+        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@ws.arvancloud.online:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#%5BOpenRay%5D%20Dynamic-337",
+        "flag": "flags/au.png",
         "ping": "Скоростной"
     },
-    "Париж": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.224:8880?mode=gun&security=none&encryption=none&type=grpc",
-        "flag": "flags/fr.png",
+    "Шайенн": {
+        "url": "vless://852650c3-8ae5-4b75-8613-02a197a89309@us8.candyfans.win:443?path=%2Fzonnws&security=tls&encryption=none&host=us8.candyfans.win&type=ws&sni=us8.candyfans.win#%5BOpenRay%5D%20Dynamic-337",
+        "flag": "flags/us.png",
         "ping": "Скоростной"
     }
 }
