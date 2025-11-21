@@ -1,5 +1,5 @@
 {
-    "Германия": {
+    "Франкфурт-На-Майне": {
         "url": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=kahoo.mrconfigur.site&type=ws&sni=kahoo.mrconfigur.site#🇩🇪@FreakConfigvless://1ef05b86-7cff-463d-87f7-13951706d72b@89.106.69.139:5100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🇩🇪@FreakConfigvless://adeaebbe-5719-4c28-9b11-5df0d3331c88@104.18.110.255:443?path=/assets?ed=2560&security=tls&encryption=none&type=ws&sni=Freedom32.Pages.DEV#🇬🇧@FreakConfigvless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#🏴‍☠️@FreakConfigvless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?path=/uywlzkws&security=tls&encryption=none&host=638991166348691947.corolla-amsia.info&type=ws&sni=638991166348691947.corolla-amsia.info#🇫🇷@FreakConfigvless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?path=/x@节点狂魔&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇺🇸@FreakConfigvless://TelegramChannel:daredevill_404@91.107.184.214:20569?mode=auto&path=/@daredevill_404&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfigvless://e6a12fc8-a8c2-4b8b-bf94-62126d468721@fr2.soreanapanel.com:34326?security=reality&encryption=none&pbk=mZYOOBWsQuWPyVQbL630U3PfnTRz8tdgQSVmyIlpxiA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=33d92e960cb19e71#🇫🇷@FreakConfigvless://TelegramChannel:daredevill_404@91.107.184.214:20569?mode=auto&path=/@daredevill_404&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfigvless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?path=/uywlzkws&security=tls&encryption=none&host=638991166348691947.corolla-amsia.info&type=ws&sni=638991166348691947.corolla-amsia.info#🇫🇷@FreakConfigvless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?path=/ljrnxaws&security=tls&encryption=none&type=ws&sni=638990351320529492.prius-amshz.info#🇹🇷@FreakConfig",
         "flag": "flags/de.png",
         "ping": "Новый"
@@ -9,209 +9,24 @@
         "flag": "flags/us.png",
         "ping": "Стабильный"
     },
-    "Сервер-40": {
+    "Германия": {
         "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@ws.arvancloud.online:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#[OpenRay] Dynamic-337",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
+        "flag": "flags/de.png",
+        "ping": "Стабильный"
     },
-    "Сервер-41": {
+    "Франкфурт-На-Майне (2)": {
         "url": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=nargil.mrconfigur.site&type=ws&sni=nargil.mrconfigur.site#[OpenRay] Dynamic-5291",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
+        "flag": "flags/de.png",
+        "ping": "Стабильный"
     },
-    "Сервер-42": {
+    "Шайенн": {
         "url": "vless://852650c3-8ae5-4b75-8613-02a197a89309@us8.candyfans.win:443?path=%2Fzonnws&security=tls&encryption=none&host=us8.candyfans.win&type=ws&sni=us8.candyfans.win#[OpenRay] Dynamic-337",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
+        "flag": "flags/us.png",
+        "ping": "Стабильный"
     },
-    "Сервер-43": {
+    "Лос-Анджелес": {
         "url": "vless://3f9c8463-8610-3ed8-86c8-a26713067825@d9a44defd1.hhouge123.ggff.net:443?type=ws&security=tls&sni=d9a44defd1.hhouge123.ggff.net&path=%2Fdb1024d9a44defd1&host=d9a44defd1.hhouge123.ggff.net#[OpenRay] Dynamic-4935",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
-    },
-    "Сервер-44": {
-        "url": "vless://1e823993-86ac-3ead-89b5-227e73825fdb@7e9efc2f16.hhouge123.ggff.net:443?type=ws&security=tls&sni=7e9efc2f16.hhouge123.ggff.net&path=%2Fdb10247e9efc2f16&host=7e9efc2f16.hhouge123.ggff.net#[OpenRay] Dynamic-3608",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
-    },
-    "Сервер-45": {
-        "url": "vless://5f60f4be-c6b1-4b07-ae9f-30cdcefe1759@us6.candyfans.win:443?type=ws&encryption=none&host=us6.candyfans.win&path=%2Fnmzuws&security=tls&sni=us6.candyfans.win#[OpenRay] Dynamic-3351",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
-    },
-    "Сервер-46": {
-        "url": "vless://391eb4b0-4b59-4f5c-8ced-c5f685ba255f@brenna.ns.cloudflare.com:443?path=%2Fqixrimws&security=tls&encryption=none&insecure=1&host=638991681638536098.jetta-amsia.info&type=ws&allowInsecure=1&sni=638991681638536098.jetta-amsia.info#[OpenRay] Dynamic-4194",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
-    },
-    "Сервер-47": {
-        "url": "vless://c3fec147-2189-4447-a590-2edcc0484ee8@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899243672646.stinger-amsid.info&type=ws&host=638992899243672646.stinger-amsid.info&path=%2Fqhxqyxws#[OpenRay] Dynamic-4444",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
-    },
-    "Сервер-48": {
-        "url": "vless://168ea746-380b-4242-bd7a-6649479aa3bb@bitpay.com:443?security=tls&sni=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=%2Fws&host=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&encryption=none#[OpenRay] Dynamic-5987",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
-    },
-    "Сервер-49": {
-        "url": "vless://6d651624-65eb-40c6-94ae-d0e5df90c0ad@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy#[OpenRay] Dynamic-6090",
-        "flag": "flags/unknown.png",
-        "ping": "Проверен"
-    },
-    "Сервер-50": {
-        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?security=none&encryption=none&type=ws&host=cdn.ir&path=%2Fnews#[OpenRay] 🇩🇪 DE-1293",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "Сервер-51": {
-        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?host=cdn.ir&path=%2Fnews&type=ws#[OpenRay] 🇩🇪 DE-1341",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "Сервер-52": {
-        "url": "vless://323e66b8-9214-487f-9499-8b5bcc68c3f4@lovetea1.dastur-amuzesh.ir:3002?security=none&encryption=none&headerType=none&type=tcp#[OpenRay] 🇩🇪 DE-1682",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "Сервер-53": {
-        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?host=cdn.ir&path=%2Fnews&type=ws#[OpenRay] 🇩🇪 DE-1711",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "Сервер-54": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@172.104.203.143:443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇩🇪 DE-1777",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "Сервер-55": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@194.87.35.190:2053?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇳🇱 NL-439",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "Сервер-56": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@195.133.38.112:443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇳🇱 NL-440",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "Сервер-57": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@195.133.38.30:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇳🇱 NL-441",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "Сервер-58": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@195.133.59.174:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇳🇱 NL-442",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "Сервер-59": {
-        "url": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.148.22:443?path=%2F&security=tls&encryption=none&host=nargil.mrconfigur.site&type=ws&sni=nargil.mrconfigur.site#[OpenRay] 🇺🇸 US-5298",
         "flag": "flags/us.png",
-        "ping": "Проверен"
-    },
-    "Сервер-60": {
-        "url": "vless://%50%61%72%73%61%73%68%6F%6E%61%6D-Bot-37@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#[OpenRay] 🇺🇸 US-5849",
-        "flag": "flags/us.png",
-        "ping": "Проверен"
-    },
-    "Сервер-61": {
-        "url": "vless://Parsashonam-Bot-37@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#[OpenRay] 🇺🇸 US-5892",
-        "flag": "flags/us.png",
-        "ping": "Проверен"
-    },
-    "Сервер-62": {
-        "url": "vless://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80?encryption=none&security=none&type=ws&host=google.com&path=%2Fvless%2F#[OpenRay] 🇺🇸 US-5887",
-        "flag": "flags/us.png",
-        "ping": "Проверен"
-    },
-    "Сервер-63": {
-        "url": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.17.147.22:443?type=ws&encryption=none&host=holo.mrconfigur.site&path=%2F&security=tls&sni=holo.mrconfigur.site#[OpenRay] 🇺🇸 US-5991",
-        "flag": "flags/us.png",
-        "ping": "Проверен"
-    },
-    "Сервер-64": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.224:8880?mode=gun&security=none&encryption=none&type=grpc#[OpenRay] 🇫🇷 FR-1134",
-        "flag": "flags/fr.png",
-        "ping": "Проверен"
-    },
-    "Сервер-65": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934442807081605.stockholm-drc-tusacae.info:8880?mode=gun&encryption=none&type=grpc#[OpenRay] 🇫🇷 FR-793",
-        "flag": "flags/fr.png",
-        "ping": "Проверен"
-    },
-    "Сервер-66": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929750206966997.oslo-drc-dcrabj.info:8880?fp=chrome&type=grpc&encryption=none&allowInsecure=1#[OpenRay] 🇫🇷 FR-1234",
-        "flag": "flags/fr.png",
-        "ping": "Проверен"
-    },
-    "Сервер-67": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778724075.helsinki-drc-tusacaf.info:8880?encryption=none&type=grpc#[OpenRay] 🇫🇷 FR-1895",
-        "flag": "flags/fr.png",
-        "ping": "Проверен"
-    },
-    "Сервер-68": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@154.17.226.83:8080?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇺🇸 US-6084",
-        "flag": "flags/us.png",
-        "ping": "Проверен"
-    },
-    "Сервер-69": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@172.234.96.64:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇸🇪 SE-2608",
-        "flag": "flags/se.png",
-        "ping": "Проверен"
-    },
-    "Сервер-70": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@188.132.232.192:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇹🇷 TR-36",
-        "flag": "flags/tr.png",
-        "ping": "Проверен"
-    },
-    "Сервер-71": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@95.163.242.122:2053?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇷🇺 RU-44",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "Сервер-72": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@85.193.91.193:2053?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇷🇺 RU-43",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "Сервер-73": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@104.239.87.213:2053?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇹🇷 TR-37",
-        "flag": "flags/tr.png",
-        "ping": "Проверен"
-    },
-    "Сервер-74": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@80.90.187.190:2053?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇷🇺 RU-45",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "Сервер-75": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@103.71.23.6:443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇷🇺 RU-46",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "Сервер-76": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@172.105.191.21:443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇦🇺 AU-2",
-        "flag": "flags/au.png",
-        "ping": "Проверен"
-    },
-    "Сервер-77": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@38.180.86.63:443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇧🇪 BE-2",
-        "flag": "flags/be.png",
-        "ping": "Проверен"
-    },
-    "Сервер-78": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@188.253.22.219:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇱🇻 LV-2",
-        "flag": "flags/lv.png",
-        "ping": "Проверен"
-    },
-    "Сервер-79": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@188.253.23.98:443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇱🇻 LV-3",
-        "flag": "flags/lv.png",
-        "ping": "Проверен"
-    },
-    "Сервер-80": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@188.253.22.58:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇱🇻 LV-4",
-        "flag": "flags/lv.png",
-        "ping": "Проверен"
+        "ping": "Стабильный"
     }
 }
