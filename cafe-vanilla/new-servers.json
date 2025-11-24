@@ -9,14 +9,9 @@
         "flag": "flags/se.png",
         "ping": "Скоростной"
     },
-    "Нидерланды": {
-        "url": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@nl4.ultima.foundation:8443?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%201",
-        "flag": "flags/nl.png",
-        "ping": "Скоростной"
-    },
-    "Литва": {
+    "Шяуляй": {
         "url": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@lt.ultima.foundation:4443?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a9725715bf4c62ff#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0%201",
-        "flag": "flags/lv.png",
+        "flag": "flags/lt.png",
         "ping": "Новый"
     },
     "Франкфурт-На-Майне": {
