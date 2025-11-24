@@ -9,8 +9,8 @@
         "flag": "flags/de.png",
         "ping": "Скоростной"
     },
-    "Шарлотт": {
-        "url": "vless://6d651624-65eb-40c6-94ae-d0e5df90c0ad@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy#[OpenRay] 🇨🇦 CA-4458",
+    "Лос-Анджелес": {
+        "url": "vless://3f9c8463-8610-3ed8-86c8-a26713067825@d9a44defd1.hhouge123.ggff.net:443?type=ws&security=tls&sni=d9a44defd1.hhouge123.ggff.net&path=%2Fdb1024d9a44defd1&host=d9a44defd1.hhouge123.ggff.net#[OpenRay] Dynamic-4935",
         "flag": "flags/us.png",
         "ping": "Стабильный"
     },
@@ -19,19 +19,9 @@
         "flag": "flags/de.png",
         "ping": "Стабильный"
     },
-    "Париж": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778724075.helsinki-drc-tusacaf.info:8880?encryption=none&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-1895",
-        "flag": "flags/fr.png",
-        "ping": "Стабильный"
-    },
     "Франкфурт-На-Майне (2)": {
         "url": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=nargil.mrconfigur.site&type=ws&sni=nargil.mrconfigur.site#[OpenRay] Dynamic-5291",
         "flag": "flags/de.png",
-        "ping": "Стабильный"
-    },
-    "Лос-Анджелес": {
-        "url": "vless://3f9c8463-8610-3ed8-86c8-a26713067825@d9a44defd1.hhouge123.ggff.net:443?type=ws&security=tls&sni=d9a44defd1.hhouge123.ggff.net&path=%2Fdb1024d9a44defd1&host=d9a44defd1.hhouge123.ggff.net#[OpenRay] Dynamic-4935",
-        "flag": "flags/us.png",
         "ping": "Стабильный"
     }
 }
