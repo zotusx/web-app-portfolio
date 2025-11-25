@@ -4,6 +4,11 @@
         "flag": "flags/at.png",
         "ping": "Скоростной"
     },
+    "Нарва": {
+        "url": "vless://879bba99-edb8-4a82-a00b-f671283f0ef2@est01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420",
+        "flag": "flags/es.png",
+        "ping": "Новый"
+    },
     "Шяуляй": {
         "url": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@lt.ultima.foundation:4443?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a9725715bf4c62ff#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0%201",
         "flag": "flags/lt.png",
