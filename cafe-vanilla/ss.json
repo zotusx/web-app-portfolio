@@ -3,10 +3,6 @@
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPcFBFNjYwN0NEaUdSekZRcjNlQ0Zl@178.208.91.118:19805#Amsterdam,%20NH,%20The%20Netherlands",
     "about": "Задержка менее 10 мс"
   },
-  "Финляндия": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#Russia",
-    "about": "Тестовый"
-  },
   "\uD83C\uDDF3\uD83C\uDDF1 Амстердам": {
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.191:8080#The%20Netherlands",
     "about": "Скоростной"
@@ -22,5 +18,9 @@
   "\uD83C\uDDF3\uD83C\uDDF1 Меппел (2)": {
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080#🇳🇱[t.me/vaddress] ss-NL",
     "about": "Скоростной (WiFi)"
+  },
+  "\uD83C\uDDF7\uD83C\uDDFA Россия": {
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPcFBFNjYwN0NEaUdSekZRcjNlQ0Zl@178.208.91.118:19805#Amsterdam,%20NH,%20The%20Netherlands",
+    "about": ""
   }
 }
