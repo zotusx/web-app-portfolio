@@ -1,7 +1,7 @@
 {
-    "Амстердам": {
-        "url": "vless://7a8f1955-1d38-4b58-97ef-c3c2f9de0e1a@nl8.node.ibst.me:4343?type=tcp&security=none#%F0%9F%87%B3%F0%9F%87%B1%20iBoost%20(tg%3A%40iboost2bot)%20%5BOIRBTKDve%5D",
-        "flag": "flags/nl.png",
+    "Франция": {
+        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038145570100.prague-drcn-aaaai.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-2030",
+        "flag": "flags/fr.png",
         "ping": "Лучший"
     },
     "Вена": {
@@ -17,16 +17,6 @@
     "Гонконг": {
         "url": "vless://692d299b-2c75-40bc-a933-d2f34cab8b1d@38.147.163.253:443?security=tls&type=ws&path=%2Fproxyip%3Dtw.sni2025.netlib.re&host=s2.sni2011.netlib.re&alpn=h3&sni=s2.sni2011.netlib.re&fp=random&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2",
         "flag": "flags/cn.png",
-        "ping": "Стабильный"
-    },
-    "Лентварис": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@188.253.22.219:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-2",
-        "flag": "flags/lv.png",
-        "ping": "Стабильный"
-    },
-    "Стенинге": {
-        "url": "vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@172.234.96.64:8443?encryption=none&security=tls&sni=ak.hexo.cloudns.ch&type=ws&host=ak.hexo.cloudns.ch&path=%2Fproxyip%3Dsjc.o00o.ooo#[OpenRay] 🇸🇪 SE-2608",
-        "flag": "flags/se.png",
         "ping": "Стабильный"
     }
 }
