@@ -3,20 +3,5 @@
         "url": "vless://f7e81e80-086e-4e29-bb87-b9bde13f44dc@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none#aa",
         "flag": "flags/ca.png",
         "ping": "Лучший"
-    },
-    "Вена": {
-        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@ws.arvancloud.online:80?encryption=none&security=none&type=ws&host=cdn.ir&path=%2Fnews#[OpenRay] Dynamic-337",
-        "flag": "flags/at.png",
-        "ping": "Лучший"
-    },
-    "Рига": {
-        "url": "vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#Latvia%20Sia%20Veesp",
-        "flag": "flags/lv.png",
-        "ping": "Стабильный"
-    },
-    "Гонконг": {
-        "url": "vless://692d299b-2c75-40bc-a933-d2f34cab8b1d@38.147.163.253:443?security=tls&type=ws&path=%2Fproxyip%3Dtw.sni2025.netlib.re&host=s2.sni2011.netlib.re&alpn=h3&sni=s2.sni2011.netlib.re&fp=random&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-2",
-        "flag": "flags/cn.png",
-        "ping": "Стабильный"
     }
 }
