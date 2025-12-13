@@ -6,13 +6,13 @@
     },
     "Динамический (1)": {
         "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@saas.sin.fan:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-4450",
-        "flag": "flags/ru.png",
-        "ping": "Стабильный"
+        "flag": "flags/.png",
+        "ping": "Для YouTube, Discord"
     },
     "Динамический (2)": {
         "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@mfa.gov.ua:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-6086",
-        "flag": "flags/ru.png",
-        "ping": "Для YouTube, Discord"
+        "flag": "flags/de.png",
+        "ping": "Стабильный"
     },
     "Динамический (3)": {
         "url": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996535744390586.vitara-amsih.info&allowInsecure=1&type=ws&host=638996535744390586.vitara-amsih.info&path=%2Fcahttingws#[OpenRay] Dynamic-6524",
