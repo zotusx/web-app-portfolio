@@ -3,5 +3,25 @@
         "url": "vless://f7e81e80-086e-4e29-bb87-b9bde13f44dc@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none#aa",
         "flag": "flags/ca.png",
         "ping": "Лучший"
-    }
+    },
+    "Динамический (1)": {
+        "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@saas.sin.fan:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-4450",
+        "flag": "flags/de.png",
+        "ping": "Стабильный"
+    },
+    "Динамический (2)": {
+        "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@mfa.gov.ua:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-6086",
+        "flag": "flags/ru.png",
+        "ping": "Для YouTube, Discord"
+    },
+    "Динамический (3)": {
+        "url": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996535744390586.vitara-amsih.info&allowInsecure=1&type=ws&host=638996535744390586.vitara-amsih.info&path=%2Fcahttingws#[OpenRay] Dynamic-6524",
+        "flag": "flags/fr.png",
+        "ping": "Стабильный"
+    },
+    "Динамический (4)": {
+        "url": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsghiyws&host=terazhedi.info&sni=terazhedi.info&fp=chrome&encryption=none#[OpenRay] Dynamic-9670",
+        "flag": "flags/fr.png",
+        "ping": "Стабильный"
+    },
 }
