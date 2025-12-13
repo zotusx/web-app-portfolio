@@ -1,14 +1,10 @@
 {
   "\u26A1 Самая быстрая локация": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPcFBFNjYwN0NEaUdSekZRcjNlQ0Zl@178.208.91.118:19805#Amsterdam,%20NH,%20The%20Netherlands",
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VGc1ODN5bzFRZDRmUEszWWdVME9S@45.95.232.236:4248#Zurich,%20ZH,%20Switzerland",
     "about": ""
   },
-  "\uD83C\uDDEC\uD83C\uDDE7 Великобритания": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@64.137.109.212:44884#United%20Kingdoms",
-    "about": "Скоростной"
-  },
-  "\uD83C\uDDF3\uD83C\uDDF1 Амстердам": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.191:8080#The%20Netherlands",
+  "\uD83C\uDDE8\uD83C\uDDED Цюрих": {
+    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VGc1ODN5bzFRZDRmUEszWWdVME9S@45.95.232.236:4248#Zurich,%20ZH,%20Switzerland",
     "about": "Скоростной"
   },
   "\uD83C\uDDF3\uD83C\uDDF1 Амстердам (2)": {
@@ -18,17 +14,5 @@
   "\uD83C\uDDF3\uD83C\uDDF1 Меппел (2)": {
     "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080#🇳🇱[t.me/vaddress] ss-NL",
     "about": "Скоростной (WiFi)"
-  },
-  "\uD83C\uDDE8\uD83C\uDDF1 Чили": {
-    "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#Chile",
-    "about": "Мобильная сеть"
-  },
-  "\uD83C\uDDEB\uD83C\uDDF7 Париж": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRDAxN0NHa3N0VzlhV1lhdmlPUmJZ@162.19.208.118:42976#France",
-    "about": "Мобильная сеть"
-  },
-  "\uD83C\uDDF7\uD83C\uDDFA Россия": {
-    "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPcFBFNjYwN0NEaUdSekZRcjNlQ0Zl@178.208.91.118:19805#Amsterdam,%20NH,%20The%20Netherlands",
-    "about": "Кто это использует?"
   }
 }
