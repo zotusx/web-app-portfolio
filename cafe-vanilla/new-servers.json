@@ -1,7 +1,7 @@
 {
-    "Франция": {
-        "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038145570100.prague-drcn-aaaai.info:8880?type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-2030",
-        "flag": "flags/fr.png",
+    "Канада": {
+        "url": "vless://f7e81e80-086e-4e29-bb87-b9bde13f44dc@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none#aa",
+        "flag": "flags/ca.png",
         "ping": "Лучший"
     },
     "Вена": {
