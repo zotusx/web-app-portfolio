@@ -23,5 +23,5 @@
         "url": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsghiyws&host=terazhedi.info&sni=terazhedi.info&fp=chrome&encryption=none#[OpenRay] Dynamic-9670",
         "flag": "flags/fr.png",
         "ping": "Стабильный"
-    },
+    }
 }
