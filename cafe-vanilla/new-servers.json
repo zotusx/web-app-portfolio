@@ -4,17 +4,17 @@
         "flag": "flags/ca.png",
         "ping": "Стабильный"
     },
-    "Динамичный-1": {
+    "Динамический-1": {
         "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@mfa.gov.ua:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-6086",
         "flag": "flags/light.png",
         "ping": "Новый"
     },
-    "Франкенштейн": {
+    "Фалькенштейн": {
         "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?security=none&type=ws&path=%2Fnews%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=cdn.ir&encryption=none#[OpenRay] 🇩🇪 DE-2562",
         "flag": "flags/de.png",
         "ping": "Стабильный"
     },
-    "Динамичный-2": {
+    "Динамический-2": {
         "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@saas.sin.fan:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-4450",
         "flag": "flags/light.png",
         "ping": "Новый"
@@ -24,7 +24,7 @@
         "flag": "flags/de.png",
         "ping": "Стабильный"
     },
-    "Динамичный-3": {
+    "Динамический-3": {
         "url": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsghiyws&host=terazhedi.info&sni=terazhedi.info&fp=chrome&encryption=none#[OpenRay] Dynamic-9670",
         "flag": "flags/light.png",
         "ping": "Новый"
@@ -34,22 +34,22 @@
         "flag": "flags/se.png",
         "ping": "Стабильный"
     }
-    "Динамичный-4": {
+    "Динамический-4": {
         "url": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@shops.myshopify.com:443?security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#[OpenRay] Dynamic-7587",
         "flag": "flags/light.png",
         "ping": "Новый"
     },
-    "Динамичный-5": {
+    "Динамический-5": {
         "url": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@notion.site:2053?security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#[OpenRay] Dynamic-9711",
         "flag": "flags/light.png",
         "ping": "Новый"
     },
-    "Динамичный-6": {
+    "Динамический-6": {
         "url": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@convera.com:2053?security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#[OpenRay] Dynamic-9727",
         "flag": "flags/light.png",
         "ping": "Нестабильный"
     },
-    "Динамичный-7": {
+    "Динамический-7": {
         "url": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#[OpenRay] Dynamic-7830",
         "flag": "flags/light.png",
         "ping": "Новый"
@@ -59,7 +59,7 @@
         "flag": "flags/ca.png",
         "ping": "Стабильный"
     },
-    "Динамичный-8": {
+    "Динамический-8": {
         "url": "vless://efe47594-d246-4823-9bb8-d828160720ab@us2.candyfans.win:443?type=ws&encryption=none&host=us2.candyfans.win&path=%2Fndhfws&security=tls&sni=us2.candyfans.win&allowInsecure=1&fp=chrome#[OpenRay] Dynamic-7781",
         "flag": "flags/light.png",
         "ping": "Новый"
