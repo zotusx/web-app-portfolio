@@ -1,27 +1,77 @@
 {
     "Канада": {
-        "url": "vless://f7e81e80-086e-4e29-bb87-b9bde13f44dc@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=none#aa",
+        "url": "vless://b8ac5cc7-7dfc-46e7-b2d7-125ae7ea986c@axe.soyet2j.ir:443?encryption=none&security=tls&sni=menu.gejeh683bm.ir&alpn=h2&fp=chrome&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0#[OpenRay] 🇨🇦 CA-8010",
         "flag": "flags/ca.png",
-        "ping": "Лучший"
+        "ping": "Стабильный"
     },
-    "Динамический (1)": {
-        "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@saas.sin.fan:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-4450",
-        "flag": "flags/.png",
-        "ping": "Для YouTube, Discord"
-    },
-    "Динамический (2)": {
+    "Динамичный-1": {
         "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@mfa.gov.ua:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-6086",
+        "flag": "flags/light.png",
+        "ping": "Новый"
+    },
+    "Франкенштейн": {
+        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?security=none&type=ws&path=%2Fnews%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=cdn.ir&encryption=none#[OpenRay] 🇩🇪 DE-2562",
         "flag": "flags/de.png",
         "ping": "Стабильный"
     },
-    "Динамический (3)": {
-        "url": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996535744390586.vitara-amsih.info&allowInsecure=1&type=ws&host=638996535744390586.vitara-amsih.info&path=%2Fcahttingws#[OpenRay] Dynamic-6524",
-        "flag": "flags/fr.png",
+    "Динамичный-2": {
+        "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@saas.sin.fan:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-4450",
+        "flag": "flags/light.png",
+        "ping": "Новый"
+    },
+    "Франкфурт-На-Майне": {
+        "url": "vless://2ee3d326-7898-4910-81b4-cff9fd5cdd56@51.75.82.192:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=www.speedtest.net&path=%2FDarkTeam_VPN#[OpenRay] 🇩🇪 DE-2565",
+        "flag": "flags/de.png",
         "ping": "Стабильный"
     },
-    "Динамический (4)": {
+    "Динамичный-3": {
         "url": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsghiyws&host=terazhedi.info&sni=terazhedi.info&fp=chrome&encryption=none#[OpenRay] Dynamic-9670",
-        "flag": "flags/de.png",
+        "flag": "flags/light.png",
+        "ping": "Новый"
+    },
+    "Швеция": {
+        "url": "vless://caea92b4-f00e-4728-bd1e-5e7d43f31bf4@185.146.173.185:2052?type=ws&encryption=none&path=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-&host=fggvggvvvv.fggghbvhh-ghvghggg-fgvg-mahdi-net-irancel.BLOG&security=none#[OpenRay] 🇸🇪 SE-2651",
+        "flag": "flags/se.png",
         "ping": "Стабильный"
+    }
+    "Динамичный-4": {
+        "url": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@shops.myshopify.com:443?security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#[OpenRay] Dynamic-7587",
+        "flag": "flags/light.png",
+        "ping": "Новый"
+    },
+    "Динамичный-5": {
+        "url": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@notion.site:2053?security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#[OpenRay] Dynamic-9711",
+        "flag": "flags/light.png",
+        "ping": "Новый"
+    },
+    "Динамичный-6": {
+        "url": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@convera.com:2053?security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#[OpenRay] Dynamic-9727",
+        "flag": "flags/light.png",
+        "ping": "Нестабильный"
+    },
+    "Динамичный-7": {
+        "url": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#[OpenRay] Dynamic-7830",
+        "flag": "flags/light.png",
+        "ping": "Новый"
+    },
+    "Канада-2": {
+        "url": "vless://bc630cb6-d38a-4d67-819c-e4ac0c47e652@axe.soyet2j.ir:443?encryption=none&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&security=tls&alpn=h2&fp=chrome&sni=menu.gejeh683bm.ir#[OpenRay] 🇨🇦 CA-8008",
+        "flag": "flags/ca.png",
+        "ping": "Стабильный"
+    },
+    "Динамичный-8": {
+        "url": "vless://efe47594-d246-4823-9bb8-d828160720ab@us2.candyfans.win:443?type=ws&encryption=none&host=us2.candyfans.win&path=%2Fndhfws&security=tls&sni=us2.candyfans.win&allowInsecure=1&fp=chrome#[OpenRay] Dynamic-7781",
+        "flag": "flags/light.png",
+        "ping": "Новый"
+    },
+    "Германия": {
+        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?security=none&encryption=none&type=ws&host=cdn.ir&path=%2Fnews#[OpenRay] 🇩🇪 DE-2590",
+        "flag": "flags/de.png",
+        "ping": "Новый"
+    },
+    "Германия-2": {
+        "url": "vless://b338a8f4-9aa3-4e1d-b6b7-5efed8ae038b@85.195.101.122:48129?type=raw#[OpenRay] 🇩🇪 DE-2600",
+        "flag": "flags/de.png",
+        "ping": "Новый"
     }
 }
