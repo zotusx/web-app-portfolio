@@ -14,16 +14,6 @@
         "flag": "flags/light.png",
         "ping": "Новый"
     },
-    "Франкфурт-На-Майне": {
-        "url": "vless://2ee3d326-7898-4910-81b4-cff9fd5cdd56@51.75.82.192:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=www.speedtest.net&path=%2FDarkTeam_VPN#[OpenRay] 🇩🇪 DE-2565",
-        "flag": "flags/de.png",
-        "ping": "Стабильный"
-    },
-    "Динамический-3": {
-        "url": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fsghiyws&host=terazhedi.info&sni=terazhedi.info&fp=chrome&encryption=none#[OpenRay] Dynamic-9670",
-        "flag": "flags/light.png",
-        "ping": "Новый"
-    },
     "Швеция": {
         "url": "vless://caea92b4-f00e-4728-bd1e-5e7d43f31bf4@185.146.173.185:2052?type=ws&encryption=none&path=Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-Telegramjoin%3A%40V2Ray_Rolly-&host=fggvggvvvv.fggghbvhh-ghvghggg-fgvg-mahdi-net-irancel.BLOG&security=none#[OpenRay] 🇸🇪 SE-2651",
         "flag": "flags/se.png",
