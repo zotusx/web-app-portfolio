@@ -1,9 +1,4 @@
 {
-    "Канада": {
-        "url": "vless://b8ac5cc7-7dfc-46e7-b2d7-125ae7ea986c@axe.soyet2j.ir:443?encryption=none&security=tls&sni=menu.gejeh683bm.ir&alpn=h2&fp=chrome&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0#[OpenRay] 🇨🇦 CA-8010",
-        "flag": "flags/ca.png",
-        "ping": "Стабильный"
-    },
     "Динамический-1": {
         "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@mfa.gov.ua:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-6086",
         "flag": "flags/light.png",
