@@ -1,4 +1,9 @@
 {
+    "Германия-2": {
+        "url": "vless://b338a8f4-9aa3-4e1d-b6b7-5efed8ae038b@85.195.101.122:48129?type=raw#[OpenRay] 🇩🇪 DE-2600",
+        "flag": "flags/de.png",
+        "ping": "Лучший"
+    },
     "Динамический-1": {
         "url": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@mfa.gov.ua:443?encryption=none&security=tls&sni=ayanaminrei.11160321.xyz&fp=chrome&type=ws&host=ayanamirei.11160321.xyz&path=%2Fed%3D2560#[OpenRay] Dynamic-6086",
         "flag": "flags/light.png",
@@ -51,11 +56,6 @@
     },
     "Германия": {
         "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?security=none&encryption=none&type=ws&host=cdn.ir&path=%2Fnews#[OpenRay] 🇩🇪 DE-2590",
-        "flag": "flags/de.png",
-        "ping": "Новый"
-    },
-    "Германия-2": {
-        "url": "vless://b338a8f4-9aa3-4e1d-b6b7-5efed8ae038b@85.195.101.122:48129?type=raw#[OpenRay] 🇩🇪 DE-2600",
         "flag": "flags/de.png",
         "ping": "Новый"
     }
