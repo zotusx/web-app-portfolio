@@ -1,14 +1,4 @@
 {
-    "Канада": {
-        "url": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.20.18.151:2095?host=fangbinxingnmsl.pusytroller.cf&path=%2F&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11290",
-        "flag": "flags/ca.png",
-        "ping": "Стабильный"
-    },
-    "Нарита": {
-        "url": "vless://e258977b-e413-4718-a3af-02d75492c349@47.79.150.150:443?encryption=none&security=tls&sni=ww4.xaniujp1.qzz.io&type=ws&host=ww4.xaniujp1.qzz.io&path=%2F%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP-425",
-        "flag": "flags/jp.png",
-        "ping": "Стабильный"
-    },
     "Фалькенштейн": {
         "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?security=none&type=ws&path=%2Fnews%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=cdn.ir&encryption=none#[OpenRay] 🇩🇪 DE-2562",
         "flag": "flags/de.png",
