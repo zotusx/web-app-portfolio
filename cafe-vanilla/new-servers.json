@@ -1,4 +1,9 @@
 {
+    "Нидерланды": {
+        "url": "vless://RAKETA_542582928@185.121.235.182:443?type=tcp&security=reality&fp=chrome&pbk=NAETJSymA7F4IcE0gtbVJeb6F8O4c7g585Non8T-qho&sni=apple.com&sid=ffffffffff&spx=%2F#RAKETA_542582928-✅Нидерланды-PRO",
+        "flag": "flags/nl.png",
+        "ping": "Стабильный"
+    },
     "Фалькенштейн": {
         "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?security=none&type=ws&path=%2Fnews%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=cdn.ir&encryption=none#[OpenRay] 🇩🇪 DE-2562",
         "flag": "flags/de.png",
