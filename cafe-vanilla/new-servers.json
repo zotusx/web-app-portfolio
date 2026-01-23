@@ -1,4 +1,9 @@
 {
+    "Финляндия": {
+        "url": "vless://aecbc76b-d247-4b4b-8b2b-c0e01818701e@fi.grizzlyvpn.work:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=fi.grizzlyvpn.work&fp=chrome&pbk=c3W9GpyDD3dKT_KPBn6X2eH4nvTX016JqmGRSGFrSF8&sid=d3f9a8f0e176c8e9&spx=%2F#%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F",
+        "flag": "flags/fi.png",
+        "ping": "Стабильный"
+    },
     "Нидерланды": {
         "url": "vless://RAKETA_542582928@185.121.235.182:443?type=tcp&security=reality&fp=chrome&pbk=NAETJSymA7F4IcE0gtbVJeb6F8O4c7g585Non8T-qho&sni=apple.com&sid=ffffffffff&spx=%2F#RAKETA_542582928-✅Нидерланды-PRO",
         "flag": "flags/nl.png",
