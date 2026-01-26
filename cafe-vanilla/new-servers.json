@@ -1,22 +1,7 @@
 {
-    "Одесса, Украина": {
-        "url": "vless://aecbc76b-d247-4b4b-8b2b-c0e01818701e@fi.grizzlyvpn.work:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=fi.grizzlyvpn.work&fp=chrome&pbk=c3W9GpyDD3dKT_KPBn6X2eH4nvTX016JqmGRSGFrSF8&sid=d3f9a8f0e176c8e9&spx=%2F#%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F",
-        "flag": "flags/light.png",
-        "ping": "Стабильный"
-    },
-    "Фалькенштейн": {
-        "url": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?security=none&type=ws&path=%2Fnews%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=cdn.ir&encryption=none#[OpenRay] 🇩🇪 DE-2562",
-        "flag": "flags/de.png",
-        "ping": "Стабильный"
-    },
-    "Динамический-4": {
-        "url": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@shops.myshopify.com:443?security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#[OpenRay] Dynamic-7587",
-        "flag": "flags/ru.png",
-        "ping": "Стабильный"
-    },
-    "Динамический-6": {
-        "url": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@convera.com:2053?security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#[OpenRay] Dynamic-9727",
-        "flag": "flags/ru.png",
+    "Канада": {
+        "url": "vless://924a1c7b-951f-49d6-ab80-e6d5220b0fc9@151.101.130.79:80?host=vipglobalsseb.com&path=%2F%3Fed%3D1048&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12007",
+        "flag": "flags/ca.png",
         "ping": "Стабильный"
     }
 }
