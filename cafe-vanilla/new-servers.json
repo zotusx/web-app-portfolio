@@ -3,5 +3,10 @@
         "url": "vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.155.96.155:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&type=tcp&headerType=none#1@t.me/Notorgames_0-12007",
         "flag": "flags/ee.png",
         "ping": "Стабильный"
+    },
+    "Гонконг": {
+        "url": "vless://60b0c276-ddbe-4122-baf9-052b37df36ef@v3w4hkcf7k8.kl07st.starwayvpn.com:443?security=tls&type=tcp&headerType=none&host=v3w4hkcf7k8.kl07st.starwayvpn.com&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-214",
+        "flag": "flags/cn.png",
+        "ping": "Стабильный"
     }
 }
