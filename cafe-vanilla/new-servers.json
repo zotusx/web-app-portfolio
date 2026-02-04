@@ -3,5 +3,60 @@
         "url": "vless://a7a9f670-44c0-45a9-8047-69db0203c142@147.45.50.130:443?encryption=none&security=tls&sni=nlcdn2.suio.me&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-650",
         "flag": "flags/nl.png",
         "ping": "Стабильный"
-    }
+    },
+    "Канада (1)": {
+        "url": "vless://c33275fd-a4fa-470d-90e4-55da39d849a8@104.17.165.123:80?type=ws&headerType=none&host=de.tawana.cf.panbehpanel.ir&path=%2F#[OpenRay] 🇨🇦 CA-12635",
+        "flag": "flags/ca.png",
+        "ping": " "
+    },
+    "Канада (2)": {
+        "url": "vless://c33275fd-a4fa-470d-90e4-55da39d849a8@bro.panbehpanel.ir:80?path=%2F&security=none&encryption=none&host=de.tawana.cf.panbehpanel.ir&type=ws#[OpenRay] 🇨🇦 CA-12603",
+        "flag": "flags/ca.png",
+        "ping": " "
+    },
+    "Канада (3)": {
+        "url": "vless://c33275fd-a4fa-470d-90e4-55da39d849a8@104.26.6.35:80?type=ws&headerType=none&host=de.tawana.cf.panbehpanel.ir&path=%2F#[OpenRay] 🇨🇦 CA-12636",
+        "flag": "flags/ca.png",
+        "ping": " "
+    },
+    "Канада (4)": {
+        "url": "vless://773415e9-ca52-4076-bff5-68dbd29fe5a9@ip.hamrahto.com:2082?path=%2Fapi%2Fstream%3Fed%3D2080&security=none&encryption=none&host=hm3333.mutee.com.tr&type=ws#[OpenRay] 🇨🇦 CA-12752",
+        "flag": "flags/ca.png",
+        "ping": " "
+    },
+    "Канада (5)": {
+        "url": "vless://8e32b948-54ca-41c6-b02b-5eb79a8316fc@ip.hamrahto.com:8443?path=%2F&security=tls&encryption=none&host=hm33333.mutee.com.tr&fp=chrome&type=ws&sni=hm33333.mutee.com.tr#[OpenRay] 🇨🇦 CA-13277",
+        "flag": "flags/ca.png",
+        "ping": " "
+    },
+    "Канада (6)": {
+        "url": "vless://8e32b948-54ca-41c6-b02b-5eb79a8316fc@188.114.97.3:8443?encryption=none&host=hm33333.mutee.com.tr&fp=chrome&path=%2F&security=tls&sni=hm33333.mutee.com.tr&type=ws#[OpenRay] 🇨🇦 CA-13303",
+        "flag": "flags/ca.png",
+        "ping": " "
+    },
+    "Канада (7)": {
+        "url": "vless://84c4404d-7ccd-42ea-a819-64b763cec473@ip.hamrahto.com:8443?security=tls&type=ws&path=%2F&host=hm33333333.mutee.com.tr&sni=hm33333333.mutee.com.tr&fp=chrome#[OpenRay] 🇨🇦 CA-13356",
+        "flag": "flags/ca.png",
+        "ping": " "
+    },
+    "Канада (8)": {
+        "url": "vless://627907da-6a5b-49b7-808a-c5885937b677@ip.hamrahto.com:8443?path=%2F&security=tls&encryption=none&insecure=0&host=hm3.mutee.com.tr&fp=chrome&type=ws&allowInsecure=0&sni=hm3.mutee.com.tr#[OpenRay] 🇨🇦 CA-13355",
+        "flag": "flags/ca.png",
+        "ping": " "
+    },
+    "Динамический (1)": {
+        "url": "vless://69faf4d8-6148-4fb5-ba0c-e9909699125a@news.zoom.us:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vkehifree.cyberghostvpn.shop&fp=chrome&type=ws&sni=vkehifree.cyberghostvpn.shop#[OpenRay] Dynamic-11884",
+        "flag": "flags/light.png",
+        "ping": "Проверен"
+    },
+    "Динамический (2)": {
+        "url": "vless://4c97ec3e-3527-48c5-80ff-b715463896ba@v2.dabache.top:80?security=none&type=ws&path=%2F%3Fed&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny#[OpenRay] Dynamic-241",
+        "flag": "flags/light.png",
+        "ping": "Проверен"
+    },
+    "Динамический (3)": {
+        "url": "vless://b9bb332d-5e0d-41af-adac-49362dde8661@llloooiu.191292.xyz:80?encryption=none&security=none&sni=llloooiu.191292.xyz&type=ws&host=llloooiu.191292.xyz&path=%2F8Midq8kt5Q2GkKGWRMg#[OpenRay] Dynamic-13108",
+        "flag": "flags/light.png",
+        "ping": "Проверен"
+    },
 }
