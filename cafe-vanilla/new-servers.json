@@ -44,9 +44,9 @@
         "flag": "flags/ca.png",
         "ping": " "
     },
-    "Динамический (1)": {
-        "url": "vless://69faf4d8-6148-4fb5-ba0c-e9909699125a@news.zoom.us:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vkehifree.cyberghostvpn.shop&fp=chrome&type=ws&sni=vkehifree.cyberghostvpn.shop#[OpenRay] Dynamic-11884",
-        "flag": "flags/light.png",
+    "Турция": {
+        "url": "vless://a7a9f670-44c0-45a9-8047-69db0203c142@103.231.75.110:443?encryption=none&security=tls&sni=trcdn3.suio.me&type=tcp#[OpenRay] 🇹🇷 TR-72",
+        "flag": "flags/tr.png",
         "ping": "Проверен"
     },
     "Динамический (2)": {
