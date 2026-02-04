@@ -4,9 +4,9 @@
         "flag": "flags/nl.png",
         "ping": "Стабильный"
     },
-    "Канада (1)": {
-        "url": "vless://c33275fd-a4fa-470d-90e4-55da39d849a8@104.17.165.123:80?type=ws&headerType=none&host=de.tawana.cf.panbehpanel.ir&path=%2F#[OpenRay] 🇨🇦 CA-12635",
-        "flag": "flags/ca.png",
+    "Финляндия": {
+        "url": "vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@77.110.108.244:443?type=tcp&security=tls&encryption=none&sni=ficdn21.suio.me#[OpenRay] 🇫🇮 FI-295",
+        "flag": "flags/fi.png",
         "ping": " "
     },
     "Канада (2)": {
