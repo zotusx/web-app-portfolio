@@ -4,7 +4,7 @@
         "flag": "flags/gb.png",
         "ping": "Проверен"
     },
-    "Хз что за страна": {
+    "Сингапур": {
         "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.180.249.123:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#[OpenRay] 🇸🇬 SG-154",
         "flag": "flags/sg.png",
         "ping": "Проверен"
