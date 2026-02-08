@@ -4,19 +4,24 @@
         "flag": "flags/gb.png",
         "ping": "Проверен"
     },
-    "Сингапур": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.180.249.123:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#[OpenRay] 🇸🇬 SG-154",
-        "flag": "flags/sg.png",
+    "Финляндия": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.98.232:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#[OpenRay] 🇫🇮 FI-464",
+        "flag": "flags/fi.png",
+        "ping": "Стабильный"
+    },
+    "Япония": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#[OpenRay] 🇯🇵 JP-741",
+        "flag": "flags/jp.png",
+        "ping": "Проверен"
+    },
+    "Франция": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.216.25:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#[OpenRay] 🇫🇷 FR-558",
+        "flag": "flags/fr.png",
         "ping": "Проверен"
     },
     "Бразилия": {
         "url": "vless://e1628f52-dcbd-417c-90cc-e9266b28ea38@pq-brazil1.09vpn.com:8443?encryption=none&security=tls&sni=pq-brazil1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pq-brazil1.09vpn.com&path=%2Fvless%2F#[OpenRay] 🇧🇷 BR-22",
         "flag": "flags/br.png",
-        "ping": "Проверен"
-    },
-    "Польша": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.165.26.180:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#[OpenRay] 🇵🇱 PL-303",
-        "flag": "flags/pl.png",
         "ping": "Проверен"
     }
 }
