@@ -1,31 +1,31 @@
 {
     "Великобритания": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.164.18.202:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#[OpenRay] 🇬🇧 GB-276",
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.164.18.202:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇬🇧 Великобритания",
         "flag": "flags/gb.png",
         "ping": "Стабильный"
     },
     "Финляндия": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.98.232:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#[OpenRay] 🇫🇮 FI-464",
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.110.98.232:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇫🇮 Финляндия",
         "flag": "flags/fi.png",
         "ping": "Стабильный"
     },
     "Германия": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.36:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#[OpenRay] 🇩🇪 DE-9242",
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.36:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇩🇪 Германия",
         "flag": "flags/de.png",
         "ping": "Проверен"
     },
     "США": {
-        "url": "vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&encryption=none&type=grpc#[OpenRay] 🇺🇸 US-11244",
+        "url": "vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&encryption=none&type=grpc#🇺🇸 США",
         "flag": "flags/us.png",
         "ping": "Проверен"
     },
     "Япония": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#[OpenRay] 🇯🇵 JP-741",
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇯🇵 Токио",
         "flag": "flags/jp.png",
         "ping": "Нестабильный"
     },
     "Франция": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.216.25:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#[OpenRay] 🇫🇷 FR-558",
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.216.25:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇫🇷 Франция",
         "flag": "flags/fr.png",
         "ping": "Нестабильный"
     }
