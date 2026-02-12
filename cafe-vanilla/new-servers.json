@@ -1,4 +1,9 @@
 {
+    "Нидерланды": {
+        "url": "vless://RAKETA_852754322@195.133.41.176:443?type=tcp&security=reality&fp=chrome&pbk=AxG9cf22FpIgiPF3e2kvuIBGb3TV0UDM0SBIaIkp0xg&sni=apple.com&sid=ffffffffff&spx=%2F#🚀Нидерланды-NEW",
+        "flag": "flags/nl.png",
+        "ping": "Стабильный"
+    },
     "Хаунслоу": {
         "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.164.18.202:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇬🇧 Великобритания",
         "flag": "flags/gb.png",
