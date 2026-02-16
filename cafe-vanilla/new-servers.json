@@ -4,6 +4,11 @@
         "flag": "flags/kr.png",
         "ping": "Проверен"
     },
+    "Германия": {
+        "url": "vless://7a7aa0d2-5311-45fc-80b0-9f46f3546793@144.31.139.184:443?encryption=none&fp=chrome&pbk=YD5WWrYv-qy2P6Hu9dtImndERQBhf9uC928NigPOIjg&security=reality&sni=stats.vk-portal.net&type=grpc#🇩🇪 Германия",
+        "flag": "flags/de.png",
+        "ping": "Проверен"
+    },
     "Япония (2)": {
         "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.83.57.183:22735?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Япония",
         "flag": "flags/jp.png",
