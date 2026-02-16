@@ -1,7 +1,12 @@
 {
-    "Германия": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.36:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇩🇪 Германия",
-        "flag": "flags/de.png",
+    "Южная Корея": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.162.130.105:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇰🇷 Южная Корея",
+        "flag": "flags/kr.png",
+        "ping": "Проверен"
+    },
+    "Япония": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.83.57.183:22735?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Япония",
+        "flag": "flags/jp.png",
         "ping": "Проверен"
     },
     "США (2)": {
@@ -18,16 +23,6 @@
         "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.8:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇨🇦 Канада",
         "flag": "flags/ca.png",
         "ping": "Стабильный"
-    },
-    "Динамический (2)": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@52.77.114.70:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#Динамический (2)",
-        "flag": "flags/light.png",
-        "ping": "Проверен"
-    },
-    "США": {
-        "url": "vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&encryption=none&type=grpc#🇺🇸 США",
-        "flag": "flags/us.png",
-        "ping": "Проверен"
     },
     "Япония": {
         "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇯🇵 Токио",
