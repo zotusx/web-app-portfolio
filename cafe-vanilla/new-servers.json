@@ -1,42 +1,17 @@
 {
     "Лучший сервер": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.8:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#⚡ Лучший сервер",
+        "url": "vless://6de8264a-26c4-4a82-875c-36e2b86fd8b2@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-    "Южная Корея": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.162.130.105:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇰🇷 Южная Корея",
-        "flag": "flags/kr.png",
-        "ping": "Проверен"
-    },
-    "Япония (2)": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.83.57.183:22735?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇯🇵 Япония",
-        "flag": "flags/jp.png",
-        "ping": "Проверен"
-    },
-    "США (2)": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.11.175.88:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇺🇸 США (2)",
-        "flag": "flags/us.png",
+    "Эстония": {
+        "url": "vless://6de8264a-26c4-4a82-875c-36e2b86fd8b2@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#Эстония",
+        "flag": "flags/ee.png",
         "ping": "Проверен"
     },
     "Нидерланды": {
         "url": "vless://e73df646-1f62-41bf-8c50-653497d603d0@SC-TheNetherlands2.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇳🇱 Нидерланды",
         "flag": "flags/nl.png",
         "ping": "Проверен"
-    },
-    "Канада": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.8:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇨🇦 Канада",
-        "flag": "flags/ca.png",
-        "ping": "Стабильный"
-    },
-    "Япония": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇯🇵 Токио",
-        "flag": "flags/jp.png",
-        "ping": "Нестабильный"
-    },
-    "Франция": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.216.25:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇫🇷 Франция",
-        "flag": "flags/fr.png",
-        "ping": "Нестабильный"
     }
 }
