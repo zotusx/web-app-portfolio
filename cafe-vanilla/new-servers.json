@@ -5,7 +5,7 @@
         "ping": "Стабильный"
     },
     "Латвия": {
-        "url": "vless://919f16d2-ae91-4589-8bb2-a672890e3537@cf.090227.xyz:443?encryption=none&security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#🇺🇲 США",
+        "url": "vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#🇺🇲 test США",
         "flag": "flags/lv.png",
         "ping": "Проверен"
     }
