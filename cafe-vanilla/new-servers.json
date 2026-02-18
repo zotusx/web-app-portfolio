@@ -6,7 +6,7 @@
     },
     "Латвия": {
         "url": "vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#🇸🇪 Швеция",
-        "flag": "flags/lv.png",
+        "flag": "flags/se.png",
         "ping": "Проверен"
     }
 }
