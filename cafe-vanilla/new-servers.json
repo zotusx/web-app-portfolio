@@ -5,7 +5,7 @@
         "ping": "Стабильный"
     },
     "Латвия": {
-        "url": "vless://f8e1a74e-fcbe-4bc7-8cc2-3efde37c25b0@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#🇱🇻 Латвия",
+        "url": "vless://919f16d2-ae91-4589-8bb2-a672890e3537@cf.090227.xyz:443?encryption=none&security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#🇺🇲 США",
         "flag": "flags/lv.png",
         "ping": "Проверен"
     }
