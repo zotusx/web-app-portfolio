@@ -1,17 +1,12 @@
 {
     "Лучший сервер": {
-        "url": "vless://6de8264a-26c4-4a82-875c-36e2b86fd8b2@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#⚡ Лучший сервер",
+        "url": "vless://f8e1a74e-fcbe-4bc7-8cc2-3efde37c25b0@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
     "Эстония": {
-        "url": "vless://6de8264a-26c4-4a82-875c-36e2b86fd8b2@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#Эстония",
+        "url": "vless://f8e1a74e-fcbe-4bc7-8cc2-3efde37c25b0@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#Эстония",
         "flag": "flags/ee.png",
-        "ping": "Проверен"
-    },
-    "Нидерланды": {
-        "url": "vless://e73df646-1f62-41bf-8c50-653497d603d0@SC-TheNetherlands2.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇳🇱 Нидерланды",
-        "flag": "flags/nl.png",
         "ping": "Проверен"
     }
 }
