@@ -1,22 +1,12 @@
 {
     "Лучший сервер": {
-        "url": "vless://f8e1a74e-fcbe-4bc7-8cc2-3efde37c25b0@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#⚡ Лучший сервер",
+        "url": "vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&type=tcp&headerType=none#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-    "Эстония": {
-        "url": "vless://f8e1a74e-fcbe-4bc7-8cc2-3efde37c25b0@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#🇪🇪 Эстония",
-        "flag": "flags/ee.png",
-        "ping": "Проверен"
-    },
-    "Нидерланды": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.43.79.160:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇳🇱 Нидерланды",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "Нидерланды (2)": {
-        "url": "vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.86.102:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=c8597fb67d55d9c4#🇳🇱 Нидерланды (2)",
-        "flag": "flags/nl.png",
+    "Латвия": {
+        "url": "vless://f8e1a74e-fcbe-4bc7-8cc2-3efde37c25b0@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#🇱🇻 Латвия",
+        "flag": "flags/lv.png",
         "ping": "Проверен"
     }
 }
