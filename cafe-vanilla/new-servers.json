@@ -1,11 +1,11 @@
 {
     "Лучший сервер": {
-        "url": "vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&type=tcp&headerType=none#⚡ Лучший сервер",
+        "url": "vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
     "Латвия": {
-        "url": "vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#🇺🇲 test США",
+        "url": "vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#🇸🇪 Швеция",
         "flag": "flags/lv.png",
         "ping": "Проверен"
     }
