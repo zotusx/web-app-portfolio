@@ -9,12 +9,17 @@
         "flag": "flags/nl.png",
         "ping": "Проверен"
     },
+    "Латвия": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.173.71.69:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇱🇻 Латвия",
+        "flag": "flags/lv.png",
+        "ping": "Проверен"
+    },
     "США": {
         "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@107.174.36.103:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇺🇸 США",
         "flag": "flags/us.png",
         "ping": "Проверен"
     },
-    "Латвия": {
+    "Швеция": {
         "url": "vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#🇸🇪 Швеция",
         "flag": "flags/se.png",
         "ping": "Проверен"
