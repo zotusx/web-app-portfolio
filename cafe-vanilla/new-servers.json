@@ -1,27 +1,37 @@
 {
     "Лучший сервер": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.36.143.64:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#⚡ Лучший сервер",
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.255.127.150:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-    "Нидерланды": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.36.143.64:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇳🇱 Нидерланды",
-        "flag": "flags/nl.png",
+    "Канада": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.255.127.150:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇨🇦 Канада",
+        "flag": "flags/ca.png",
         "ping": "Проверен"
     },
-    "Латвия": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.173.71.69:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇱🇻 Латвия",
-        "flag": "flags/lv.png",
+    "Канада (2)": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.64:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇨🇦 Канада (2)",
+        "flag": "flags/ca.png",
         "ping": "Проверен"
     },
-    "США": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@107.174.36.103:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇺🇸 США",
-        "flag": "flags/us.png",
+    "Польша": {
+        "url": "vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@telegram.vpnazadie.store:80?encryption=none&security=none&type=ws&host=vpnazadie.store&path=%2Fvless-ntls#🇵🇱 Польша",
+        "flag": "flags/pl.png",
         "ping": "Проверен"
     },
-    "Швеция": {
-        "url": "vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#🇸🇪 Швеция",
-        "flag": "flags/se.png",
+    "Канада (3)": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.247:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇨🇦 Канада (3)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (4)": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.132.93:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇨🇦 Канада (4)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Франция": {
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.31.236.117:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#Франция",
+        "flag": "flags/fr.png",
         "ping": "Проверен"
     }
 }
