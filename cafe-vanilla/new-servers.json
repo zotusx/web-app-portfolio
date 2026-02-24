@@ -1,11 +1,11 @@
 {
     "Лучший сервер": {
-        "url": "vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#⚡ Лучший сервер",
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
     "Германия": {
-        "url": "vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#Германия",
+        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#Германия",
         "flag": "flags/de.png",
         "ping": "Проверен"
     }
