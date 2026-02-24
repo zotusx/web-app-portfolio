@@ -4,14 +4,69 @@
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-    "Германия": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#Германия",
-        "flag": "flags/de.png",
+    "Канада (1)": {
+        "url": "vless://1798b14b-aee0-4008-ba9a-2e53877761b4@104.21.87.19:80?security=none&type=ws&host=bbbnmki.kk7.ccwu.cc&path=%2FAy6844iXSu2BDycyrxcJWNVFC21#🇨🇦 Канада (1)",
+        "flag": "flags/ca.png",
         "ping": "Проверен"
     },
-    "США": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.74.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#США",
-        "flag": "flags/us.png",
+    "Канада (2)": {
+        "url": "vless://13ad36e6-c091-43f2-8505-47d868dd544c@172.67.197.251:80?security=none&sni=ghj.ae1autumn.cc.cd&type=ws&host=ghj.ae1autumn.cc.cd&path=%2FXR8So0uqFVa3vY9ZbxgW4#🇨🇦 Канада (2)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (3)": {
+        "url": "vless://1798b14b-aee0-4008-ba9a-2e53877761b4@172.67.168.168:80?security=none&type=ws&host=bbbnmki.kk7.ccwu.cc&path=%2FAy6844iXSu2BDycyrxcJWNVFC21#🇨🇦 Канада (3)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (4)": {
+        "url": "vless://13ad36e6-c091-43f2-8505-47d868dd544c@104.21.76.174:80?security=none&sni=ghj.ae1autumn.cc.cd&type=ws&host=ghj.ae1autumn.cc.cd&path=%2FXR8So0uqFVa3vY9ZbxgW4#🇨🇦 Канада (4)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (5)": {
+        "url": "vless://13ad36e6-c091-43f2-8505-47d868dd544c@104.21.32.69:80?security=none&sni=bhy7.ae1autumn.dpdns.org&type=ws&host=bhy7.ae1autumn.dpdns.org&path=%2FXR8So0uqFVa3vY9ZbxgW4&fp=chrome#🇨🇦 Канада (5)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (6)": {
+        "url": "vless://13ad36e6-c091-43f2-8505-47d868dd544c@172.67.184.67:80?security=none&sni=bhy7.ae1autumn.dpdns.org&type=ws&host=bhy7.ae1autumn.dpdns.org&path=%2FXR8So0uqFVa3vY9ZbxgW4&fp=chrome#🇨🇦 Канада (6)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (7)": {
+        "url": "vless://c558328b-eb46-424c-b9e0-574770f0b072@172.67.170.248:80?sni=l098.zem.indevs.in&type=ws&host=l098.zem.indevs.in&path=%2Fv8clafFSnPXNC0BXGtJ&fp=chrome#🇨🇦 Канада (7)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (8)": {
+        "url": "vless://c558328b-eb46-424c-b9e0-574770f0b072@104.21.95.181:80?sni=l098.zem.indevs.in&type=ws&host=l098.zem.indevs.in&path=%2Fv8clafFSnPXNC0BXGtJ&fp=chrome#🇨🇦 Канада (8)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (9)": {
+        "url": "vless://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@104.21.6.159:80?sni=w.0op.ccwu.cc&type=ws&host=w.0op.ccwu.cc&path=%2F7ZHQqqDZuBdYKaAHx8c&fp=chrome#🇨🇦 Канада (9)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (10)": {
+        "url": "vless://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@172.67.135.2:80?sni=w.0op.ccwu.cc&type=ws&host=w.0op.ccwu.cc&path=%2F7ZHQqqDZuBdYKaAHx8c&fp=chrome#🇨🇦 Канада (10)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (11)": {
+        "url": "vless://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@104.21.7.74:80?security=none&encryption=none&type=ws&host=5tyu.0ow.ccwu.cc&path=%2F7ZHQqqDZuBdYKaAHx8c#🇨🇦 Канада (11)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (12)": {
+        "url": "vless://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@172.67.135.201:80?security=none&encryption=none&type=ws&host=5tyu.0ow.ccwu.cc&path=%2F7ZHQqqDZuBdYKaAHx8c#🇨🇦 Канада (12)",
+        "flag": "flags/ca.png",
+        "ping": "Проверен"
+    },
+    "Канада (13)": {
+        "url": "vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#🇨🇦 Канада (13)",
+        "flag": "flags/ca.png",
         "ping": "Проверен"
     }
 }
