@@ -1,12 +1,12 @@
 {
     "Лучший сервер": {
-        "url": "vless://910bbcb3-89d9-466c-8397-c420614937aa@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#⚡ Лучший сервер",
+        "url": "vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-    "Нидерланды": {
-        "url": "vless://910bbcb3-89d9-466c-8397-c420614937aa@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#Нидерланды",
-        "flag": "flags/nl.png",
+    "Германия": {
+        "url": "vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#Германия",
+        "flag": "flags/de.png",
         "ping": "Проверен"
     }
 }
