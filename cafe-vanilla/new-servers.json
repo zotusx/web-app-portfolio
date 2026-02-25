@@ -1,14 +1,20 @@
 {
     "Лучший сервер": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.180.189.36:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#⚡ Лучший сервер",
+        "url": "vless://83a818e1-e818-4ba8-9b31-6418f926d8a9@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
+    },
+    "Эстония": {
+        "url": "vless://83a818e1-e818-4ba8-9b31-6418f926d8a9@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#Эстония",
+        "flag": "flags/ee.png",
+        "ping": "Проверен"
     },
     "Финляндия": {
         "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.180.189.36:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇫🇮 Финляндия",
         "flag": "flags/fi.png",
         "ping": "Проверен"
     },
+
     "Германия": {
         "url": "vless://9edb457e-da77-4143-b885-6d46cd0fd812@F1.HaMrAhCoNf.Ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=p3-sync-01.secoxi.site&fp=chrome&type=ws&allowInsecure=0&sni=sp.secoxi.site#Германия (новая)",
         "flag": "flags/de.png",
