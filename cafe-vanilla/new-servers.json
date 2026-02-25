@@ -5,7 +5,7 @@
         "ping": "Стабильный"
     },
     "Эстония": {
-        "url": "vless://83a818e1-e818-4ba8-9b31-6418f926d8a9@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#Эстония",
+        "url": "vless://83a818e1-e818-4ba8-9b31-6418f926d8a9@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#🇪🇪 Эстония",
         "flag": "flags/ee.png",
         "ping": "Проверен"
     },
@@ -14,7 +14,11 @@
         "flag": "flags/fi.png",
         "ping": "Проверен"
     },
-
+    "Сингапур": {
+        "url": "vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F138.2.5.136%3D443# Сингапур",
+        "flag": "flags/sg.png",
+        "ping": "Проверен"
+    },
     "Германия": {
         "url": "vless://9edb457e-da77-4143-b885-6d46cd0fd812@F1.HaMrAhCoNf.Ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=p3-sync-01.secoxi.site&fp=chrome&type=ws&allowInsecure=0&sni=sp.secoxi.site#Германия (новая)",
         "flag": "flags/de.png",
