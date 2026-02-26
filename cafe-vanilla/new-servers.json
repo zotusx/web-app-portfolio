@@ -1,17 +1,12 @@
 {
     "Лучший сервер": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.180.189.36:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#⚡ Лучший сервер",
+        "url": "vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@fairyloot.com:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=1&allowInsecure=1&type=ws&host=afrcloud22.mmv.kr&path=%2F185.186.245.40%3A81#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
     "Финляндия": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.180.189.36:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇫🇮 Финляндия",
+        "url": "vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@fairyloot.com:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=1&allowInsecure=1&type=ws&host=afrcloud22.mmv.kr&path=%2F185.186.245.40%3A81#🇫🇮 Финляндия",
         "flag": "flags/fi.png",
-        "ping": "Проверен"
-    },
-    "Швеция": {
-        "url": "vless://b7039fbe-0359-4d91-977d-a926203b1936@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=1&allowInsecure=1&type=ws&host=afrcloud22.mmv.kr&path=%2F#Швеция",
-        "flag": "flags/se.png",
         "ping": "Проверен"
     }
 }
