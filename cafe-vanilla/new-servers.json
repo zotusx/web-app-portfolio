@@ -9,14 +9,9 @@
         "flag": "flags/fi.png",
         "ping": "Проверен"
     },
-    "Сингапур": {
-        "url": "vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F138.2.5.136%3D443# Сингапур",
-        "flag": "flags/sg.png",
-        "ping": "Проверен"
-    },
-    "Германия": {
-        "url": "vless://9edb457e-da77-4143-b885-6d46cd0fd812@F1.HaMrAhCoNf.Ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=p3-sync-01.secoxi.site&fp=chrome&type=ws&allowInsecure=0&sni=sp.secoxi.site#Германия (новая)",
-        "flag": "flags/de.png",
+    "Эстония": {
+        "url": "vless://1e681d1b-3f6e-4bd4-9fed-b8976bd1b3be@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#Эстония",
+        "flag": "flags/ee.png",
         "ping": "Проверен"
     }
 }
