@@ -4,7 +4,7 @@
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-     "Австрия"{
+     "Австрия": {
         "url": "vless://8a71376f-4bbc-49dc-af98-ba7e3b9e285e@mag1.portal-guard.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=mag1.portal-guard.com&fp=randomized&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#Австрия",
         "flag": "flags/at.png",
         "ping": "Проверен"
