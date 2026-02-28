@@ -1,12 +1,12 @@
 {
     "Лучший сервер": {
-        "url": "vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s863.ccgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s863.ccgfw.top&security=tls&sni=u708330u7343s863.ccgfw.top&serviceName=ssp&mode=gun#⚡ Лучший сервер (🇩🇪)",
+        "url": "vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@178.17.59.41:8080?security=reality&type=tcp&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-    "Германия": {
-        "url": "vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s863.ccgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s863.ccgfw.top&security=tls&sni=u708330u7343s863.ccgfw.top&serviceName=ssp&mode=gun#🇩🇪 Германия",
-        "flag": "flags/de.png",
+    "Польша": {
+        "url": "vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@178.17.59.41:8080?security=reality&type=tcp&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#🇵🇱 Польша",
+        "flag": "flags/pl.png",
         "ping": "Проверен"
     }
 }
