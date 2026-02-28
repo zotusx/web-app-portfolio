@@ -1,6 +1,6 @@
 {
     "Лучший сервер": {
-        "url": "vless://8a71376f-4bbc-49dc-af98-ba7e3b9e285e@mag1.portal-guard.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=mag1.portal-guard.com&fp=randomized&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#⚡ Лучший сервер",
+        "url": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@178.72.145.19:8443?encryption=none&security=reality&sni=eh.vk.com&fp=chrome&pbk=qflDse4yNSmw5uo74Leu1S9lHAcP9ThsanYSkZYSPTs&type=grpc&serviceName=xyz&packetEncoding=xudp#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
