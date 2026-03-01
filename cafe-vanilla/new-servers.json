@@ -19,29 +19,9 @@
         "flag": "flags/de.png",
         "ping": "Проверен"
     },
-    "Швеция": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.216:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇸🇪 Швеция",
-        "flag": "flags/se.png",
-        "ping": "Проверен"
-    },
-    "Япония": {
-        "url": "vless://26524cce-d514-4014-a426-365fb266a14d@140.83.57.183:22735?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=_acme-challenge.443888.xyz&sni=_acme-challenge.443888.xyz&fp=random&encryption=none#🇯🇵 Япония",
-        "flag": "flags/jp.png",
-        "ping": "Проверен"
-    },
-    "Сингапур": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.179.17:2053?security=tls&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇸🇬 Сингапур",
-        "flag": "flags/sg.png",
-        "ping": "Проверен"
-    },
     "Испания": {
         "url": "vless://26524cce-d514-4014-a426-365fb266a14d@212.227.144.37:8443?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=_acme-challenge.443888.xyz&sni=_acme-challenge.443888.xyz&fp=random&encryption=none#🇪🇸 Испания",
         "flag": "flags/es.png",
-        "ping": "Проверен"
-    },
-    "Австралия": {
-        "url": "vless://26524cce-d514-4014-a426-365fb266a14d@152.69.174.99:25248?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=_acme-challenge.443888.xyz&sni=_acme-challenge.443888.xyz&fp=random&encryption=none#🇦🇺 Австралия",
-        "flag": "flags/au.png",
         "ping": "Проверен"
     }
 }
