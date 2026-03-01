@@ -1,27 +1,27 @@
 {
     "Лучший сервер": {
-        "url": "vless://bd4c4bb5-e964-42f6-9b87-6cd359572682@162.120.16.108:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=Ost5fMTVeAvIgluBQSIYAHKImCAz7KEBD7foI-lt2U4#⚡ Лучший сервер (🇺🇸)",
+        "url": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@de.cdn.stun.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de.cdn.stun.su&fp=chrome&security=reality&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2#⚡ Лучший сервер (🇬🇧)",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-    "США": {
-        "url": "vless://bd4c4bb5-e964-42f6-9b87-6cd359572682@162.120.16.108:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=Ost5fMTVeAvIgluBQSIYAHKImCAz7KEBD7foI-lt2U4#🇺🇸 США (PRIVATE)",
-        "flag": "flags/us.png",
+    "Великобритания": {
+        "url": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@de.cdn.stun.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de.cdn.stun.su&fp=chrome&security=reality&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2#🇬🇧 Великобритания, Лондон",
+        "flag": "flags/gb.png",
         "ping": "Проверен"
     },
     "Германия": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.69.197.209:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇩🇪 Германия (1)",
+        "url": "vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@212.193.157.118:443/?type=ws&encryption=none&flow=&host=lk-cdn.deploy-assure.ru&path=%2F%2F&security=tls&sni=lk-cdn.deploy-assure.ru&fp=chrome#🇩🇪 Германия, Франкфурт",
         "flag": "flags/de.png",
         "ping": "Проверен"
     },
-    "Германия (2)": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.129.78.69:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇩🇪 Германия 9476",
-        "flag": "flags/de.png",
+    "Москва": {
+        "url": "vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443/?type=grpc&encryption=none&flow=&sni=a.primarymaster.online&fp=chrome&security=reality&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&sid=c5b7244c0fef441a#🇷🇺 Москва (Обход РКН)",
+        "flag": "flags/ru.png",
         "ping": "Проверен"
     },
-    "Испания": {
-        "url": "vless://26524cce-d514-4014-a426-365fb266a14d@212.227.144.37:8443?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=_acme-challenge.443888.xyz&sni=_acme-challenge.443888.xyz&fp=random&encryption=none#🇪🇸 Испания",
-        "flag": "flags/es.png",
+    "Армения": {
+        "url": "vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df#🇦🇲 Армения, Ереван",
+        "flag": "flags/am.png",
         "ping": "Проверен"
     }
 }
