@@ -1,8 +1,13 @@
 {
     "Лучший сервер": {
-        "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.69.197.209:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#⚡ Лучший сервер (🇩🇪)",
+        "url": "vless://bd4c4bb5-e964-42f6-9b87-6cd359572682@162.120.16.108:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=Ost5fMTVeAvIgluBQSIYAHKImCAz7KEBD7foI-lt2U4#⚡ Лучший сервер (🇺🇸)",
         "flag": "flags/light.png",
         "ping": "Стабильный"
+    },
+    "США": {
+        "url": "vless://bd4c4bb5-e964-42f6-9b87-6cd359572682@162.120.16.108:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=Ost5fMTVeAvIgluBQSIYAHKImCAz7KEBD7foI-lt2U4#🇺🇸 США (PRIVATE)",
+        "flag": "flags/us.png",
+        "ping": "Проверен"
     },
     "Германия": {
         "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.69.197.209:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇩🇪 Германия (1)",
