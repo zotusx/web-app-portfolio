@@ -1,32 +1,12 @@
 {
     "Лучший сервер": {
-        "url": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@de.cdn.stun.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de.cdn.stun.su&fp=chrome&security=reality&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2#⚡ Лучший сервер (🇬🇧)",
+        "url": "vless://38707963-acf6-4e72-8db6-94faba4b5844@72.56.108.252:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=FV_Zfr_YpvUVYmLpggwOwoJdiYVsmAqgXqDIGAILP3A&sid=3f8a#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-    "Великобритания": {
-        "url": "vless://eb071647-72a6-46be-8e89-ff3d228d52f6@de.cdn.stun.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=de.cdn.stun.su&fp=chrome&security=reality&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2#🇬🇧 Великобритания, Лондон",
-        "flag": "flags/gb.png",
-        "ping": "Проверен"
-    },
     "Нидерланды": {
-        "url": "vless://e384913f-8863-47b4-8858-a84b68abb4a6@01.cdnconn.com:23431/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=box.com&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#Нидерланды",
+        "url": "vless://38707963-acf6-4e72-8db6-94faba4b5844@72.56.108.252:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=FV_Zfr_YpvUVYmLpggwOwoJdiYVsmAqgXqDIGAILP3A&sid=3f8a#Нидерланды, Амстердам",
         "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "Германия": {
-        "url": "vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@212.193.157.118:443/?type=ws&encryption=none&flow=&host=lk-cdn.deploy-assure.ru&path=%2F%2F&security=tls&sni=lk-cdn.deploy-assure.ru&fp=chrome#🇩🇪 Германия, Франкфурт",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "Москва": {
-        "url": "vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443/?type=grpc&encryption=none&flow=&sni=a.primarymaster.online&fp=chrome&security=reality&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&sid=c5b7244c0fef441a#🇷🇺 Москва (Обход РКН)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "Армения": {
-        "url": "vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df#🇦🇲 Армения, Ереван",
-        "flag": "flags/am.png",
         "ping": "Проверен"
     }
 }
