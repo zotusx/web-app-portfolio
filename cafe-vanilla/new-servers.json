@@ -1,12 +1,12 @@
 {
     "Лучший сервер": {
-        "url": "vless://38707963-acf6-4e72-8db6-94faba4b5844@72.56.108.252:443?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=FV_Zfr_YpvUVYmLpggwOwoJdiYVsmAqgXqDIGAILP3A&sid=3f8a#⚡ Лучший сервер",
+        "url": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
-    "Нидерланды": {
-        "url": "vless://38707963-acf6-4e72-8db6-94faba4b5844@72.56.108.252:443?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=FV_Zfr_YpvUVYmLpggwOwoJdiYVsmAqgXqDIGAILP3A&sid=3f8a#Нидерланды, Амстердам",
-        "flag": "flags/nl.png",
+    "Австрия": {
+        "url": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Австрия, Вена",
+        "flag": "flags/av.png",
         "ping": "Проверен"
     }
 }
