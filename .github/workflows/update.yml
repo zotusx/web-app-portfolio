@@ -1,0 +1,27 @@
+name: Update JSON every 5 minutes
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download JSON
+        run: |
+          mkdir -p web-app-portfolio/cafe-vanilla
+          curl -o web-app-portfolio/cafe-vanilla/new-servers.json https://vpn.zotus.ru/servers.json
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add web-app-portfolio/cafe-vanilla/new-servers.json
+          git diff --cached --quiet || git commit -m "Auto update new-servers.json"
+          git push
