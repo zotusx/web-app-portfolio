@@ -1,8 +1,13 @@
 {
     "Лучший сервер": {
-        "url": "vless://99b09b22-d2c3-43ce-bece-c53cc32674ac@pl.learnyouthinspire.co.uk:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl.learnyouthinspire.co.uk#⚡ Лучший сервер",
+        "url": "vless://c2892d08-65e0-49f0-a989-c7a8bc254f54@server3.goodbyevpn.pro:443?type=grpc&security=reality&encryption=none&pbk=e0q3SEoWy2iXElalTNz3uIxacEw3K5QlRGJoLRBGLRg&sid=ffa55809e7b62755&sni=max.ru&mode=multi&serviceName=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5BSNI-RU%5D%20max.ru#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
+    },
+    "Болгария": {
+        "url": "vless://c2892d08-65e0-49f0-a989-c7a8bc254f54@server3.goodbyevpn.pro:443?type=grpc&security=reality&encryption=none&pbk=e0q3SEoWy2iXElalTNz3uIxacEw3K5QlRGJoLRBGLRg&sid=ffa55809e7b62755&sni=max.ru&mode=multi&serviceName=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5BSNI-RU%5D%20max.ru#Болгария",
+        "flag": "flags/light.png",
+        "ping": "Проверен"
     },
     "Польша": {
         "url": "vless://99b09b22-d2c3-43ce-bece-c53cc32674ac@pl.learnyouthinspire.co.uk:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl.learnyouthinspire.co.uk#Польша",
