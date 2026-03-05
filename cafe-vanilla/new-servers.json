@@ -1,8 +1,13 @@
 {
     "Лучший сервер": {
-        "url": "vless://cce751c1-c9c4-4d3d-a544-83f60ed92e50@82.24.123.105:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=WaIBkbQ1tebYn1CqelwDDTYEbtriR0Jps6QzsofVomI#⚡ Лучший сервер",
+        "url": "vless://99b09b22-d2c3-43ce-bece-c53cc32674ac@pl.learnyouthinspire.co.uk:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl.learnyouthinspire.co.uk#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
+    },
+    "Польша": {
+        "url": "vless://99b09b22-d2c3-43ce-bece-c53cc32674ac@pl.learnyouthinspire.co.uk:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl.learnyouthinspire.co.uk#Польша",
+        "flag": "flags/pl.png",
+        "ping": "Проверен"
     },
     "Нидерланды": {
         "url": "vless://cce751c1-c9c4-4d3d-a544-83f60ed92e50@82.24.123.105:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=WaIBkbQ1tebYn1CqelwDDTYEbtriR0Jps6QzsofVomI#Нидерланды",
