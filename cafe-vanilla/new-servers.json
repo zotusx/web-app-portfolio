@@ -5,23 +5,18 @@
         "ping": "Стабильный"
     },
     "Болгария": {
-        "url": "vless://c2892d08-65e0-49f0-a989-c7a8bc254f54@server3.goodbyevpn.pro:443?type=grpc&security=reality&encryption=none&pbk=e0q3SEoWy2iXElalTNz3uIxacEw3K5QlRGJoLRBGLRg&sid=ffa55809e7b62755&sni=max.ru&mode=multi&serviceName=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5BSNI-RU%5D%20max.ru#Болгария",
+        "url": "vless://c2892d08-65e0-49f0-a989-c7a8bc254f54@server3.goodbyevpn.pro:443?type=grpc&security=reality&encryption=none&pbk=e0q3SEoWy2iXElalTNz3uIxacEw3K5QlRGJoLRBGLRg&sid=ffa55809e7b62755&sni=max.ru&mode=multi&serviceName=grpc#%F0%9F%87%A7%F0%9F%87%AC%20 Болгария",
         "flag": "flags/light.png",
         "ping": "Проверен"
     },
-    "Польша": {
-        "url": "vless://99b09b22-d2c3-43ce-bece-c53cc32674ac@pl.learnyouthinspire.co.uk:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl.learnyouthinspire.co.uk#Польша",
-        "flag": "flags/pl.png",
+    "Германия": {
+        "url": "vless://cc637580-5f1a-46ff-8786-f4980bedbf19@de.pp.prod.n7.homes:8443?security=reality&type=tcp&headerType=&path=&host=&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%A9%F0%9F%87%AA%20 Германия",
+        "flag": "flags/light.png",
         "ping": "Проверен"
     },
     "Нидерланды": {
         "url": "vless://cce751c1-c9c4-4d3d-a544-83f60ed92e50@82.24.123.105:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=WaIBkbQ1tebYn1CqelwDDTYEbtriR0Jps6QzsofVomI#Нидерланды",
         "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "Австрия": {
-        "url": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Австрия, Вена",
-        "flag": "flags/av.png",
         "ping": "Проверен"
     }
 }
