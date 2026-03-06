@@ -1,18 +1,8 @@
 {
     "Лучший сервер": {
-        "url": "vless://cc637580-5f1a-46ff-8786-f4980bedbf19@de.pp.prod.n7.homes:8443?security=reality&type=tcp&headerType=&path=&host=&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#⚡ Лучший сервер (%F0%9F%87%A9%F0%9F%87%AA%20)",
+        "url": "vless://cce751c1-c9c4-4d3d-a544-83f60ed92e50@82.24.123.105:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=WaIBkbQ1tebYn1CqelwDDTYEbtriR0Jps6QzsofVomI#⚡ Лучший сервер",
         "flag": "flags/light.png",
         "ping": "Стабильный"
-    },
-    "Болгария": {
-        "url": "vless://c2892d08-65e0-49f0-a989-c7a8bc254f54@server3.goodbyevpn.pro:443?type=grpc&security=reality&encryption=none&pbk=e0q3SEoWy2iXElalTNz3uIxacEw3K5QlRGJoLRBGLRg&sid=ffa55809e7b62755&sni=max.ru&mode=multi&serviceName=grpc#%F0%9F%87%A7%F0%9F%87%AC%20 Болгария",
-        "flag": "flags/light.png",
-        "ping": "Проверен"
-    },
-    "Германия": {
-        "url": "vless://cc637580-5f1a-46ff-8786-f4980bedbf19@de.pp.prod.n7.homes:8443?security=reality&type=tcp&headerType=&path=&host=&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#%F0%9F%87%A9%F0%9F%87%AA%20 Германия",
-        "flag": "flags/light.png",
-        "ping": "Проверен"
     },
     "Нидерланды": {
         "url": "vless://cce751c1-c9c4-4d3d-a544-83f60ed92e50@82.24.123.105:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=WaIBkbQ1tebYn1CqelwDDTYEbtriR0Jps6QzsofVomI#Нидерланды",
