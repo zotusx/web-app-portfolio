@@ -1,6 +1,6 @@
 {
     "Лучший сервер": {
-        "url": "vless://cce751c1-c9c4-4d3d-a544-83f60ed92e50@82.24.123.105:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=WaIBkbQ1tebYn1CqelwDDTYEbtriR0Jps6QzsofVomI#⚡ Лучший сервер (не определен)",
+        "url": "vless://d8757813-1101-4e30-a7e7-63e688bea1db@51.250.68.181:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&sid=fe2e437f64f2da7a&sni=ads.x5.ru&path=&host=&spx=/#⚡ Лучший сервер (🇳🇱)",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
@@ -9,23 +9,8 @@
         "flag": "flags/fi.png",
         "ping": "Проверен"
     },
-    "🇫🇮 Финляндия (2)": {
-        "url": "vless://9629f1af-0b24-4b0f-9308-2cc67813a69e@85.192.49.225:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&sni=github.com&path=&host=#🇫🇮 Финляндия (2)",
-        "flag": "flags/fi.png",
-        "ping": "Проверен"
-    },
     "🇫🇮 Финляндия (3)": {
         "url": "vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.28.229:4379?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=app.perekrestok.ru&pbk=IoqdElDP9GWy1X-oJ_dn2mKlOGh7texrBsYyVY5Jf1Q#🇫🇮 Финляндия (3)",
-        "flag": "flags/fi.png",
-        "ping": "Проверен"
-    },
-    "🇫🇮 Финляндия (4)": {
-        "url": "vless://3c14ecf0-9f6f-49c5-b938-0e952ad4a440@51.250.28.229:4380?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=eh.vk.com&pbk=OIhzlaOTObsr3NMVBq1MqSlCCeELaBhZ1r7Z_1M6mRs#🇫🇮 Финляндия (4)",
-        "flag": "flags/fi.png",
-        "ping": "Проверен"
-    },
-    "🇫🇮 Финляндия (5)": {
-        "url": "vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@95.163.208.63:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=aad92345#🇫🇮 Финляндия (5)",
         "flag": "flags/fi.png",
         "ping": "Проверен"
     },
@@ -34,23 +19,8 @@
         "flag": "flags/fi.png",
         "ping": "Проверен"
     },
-    "🇫🇮 Финляндия (7)": {
-        "url": "vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@bezlimbypass7.suio.me:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=aad92345&spx=/&type=tcp#🇫🇮 Финляндия (7)",
-        "flag": "flags/fi.png",
-        "ping": "Проверен"
-    },
     "🇫🇮 Финляндия (8)": {
         "url": "vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@bezlimbypass8.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=aad92345#🇫🇮 Финляндия (8)",
-        "flag": "flags/fi.png",
-        "ping": "Проверен"
-    },
-    "🇫🇮 Финляндия (9)": {
-        "url": "vless://89e77be3-b97a-4caf-a746-18ed53ff25a5@178.154.244.97:19021?encryption=none&type=ws&security=none&path=%2Fws&host=msk-2.veroid.net#🇫🇮 Финляндия (9)",
-        "flag": "flags/fi.png",
-        "ping": "Проверен"
-    },
-    "🇫🇮 Финляндия (10)": {
-        "url": "vless://89e77be3-b97a-4caf-a746-18ed53ff25a5@msk-2.veroid.net:19021?type=ws&security=none&encryption=none&fp=firefox&pbk=UUnvg-swB-iLloJgUCvLivG6WRdhvpFHVJIbVtfwSwY&sid=d5c7748c86a9a06b&sni=msk-2.veroid.net&path=/ws&host=msk-2.veroid.net#🇫🇮 Финляндия (10)",
         "flag": "flags/fi.png",
         "ping": "Проверен"
     },
@@ -61,11 +31,6 @@
     },
     "🇩🇪 Германия (2)": {
         "url": "vless://1401682c-0e47-4eb9-b5ab-98243655be9b@de.telega.store:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=g3yCgYCBxW-7haWdMy_Wf7bwKMLfCEUwpISi4X1hz00&sid=6230e77ee2da81dd&sni=www.apple.com#🇩🇪 Германия (2)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (3)": {
-        "url": "vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@89.208.230.254:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Германия (3)",
         "flag": "flags/de.png",
         "ping": "Проверен"
     },
@@ -104,18 +69,8 @@
         "flag": "flags/de.png",
         "ping": "Проверен"
     },
-    "🇩🇪 Германия (11)": {
-        "url": "vless://b3da836c-d6d8-03e8-ba4a-0a7a54491924@89.208.230.254:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Германия (11)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
     "🇩🇪 Германия (12)": {
         "url": "vless://d0722d01-7ee8-03e8-85e1-d590ad0e60d3@89.208.230.11:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Германия (12)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (13)": {
-        "url": "vless://d0722d01-7ee8-03e8-85e1-d590ad0e60d3@89.208.230.254:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Германия (13)",
         "flag": "flags/de.png",
         "ping": "Проверен"
     },
@@ -124,38 +79,8 @@
         "flag": "flags/de.png",
         "ping": "Проверен"
     },
-    "🇩🇪 Германия (15)": {
-        "url": "vless://d6a8b5fa-1ce6-03e8-8f98-1bbb5d182539@89.208.230.11:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Германия (15)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (16)": {
-        "url": "vless://d6a8b5fa-1ce6-03e8-8f98-1bbb5d182539@89.208.230.254:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Германия (16)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
     "🇩🇪 Германия (17)": {
         "url": "vless://fba7dc74-ed99-03e8-8b5f-a822f254475f@89.208.230.11:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Германия (17)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (18)": {
-        "url": "vless://fba7dc74-ed99-03e8-8b5f-a822f254475f@89.208.230.254:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪 Германия (18)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (19)": {
-        "url": "vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@37.139.35.40:31842?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=tJtvc3_iO8MH83xloyBErV_jxB-uqyd_y0r0rEFyXw4&sid=&sni=sso.auto.ru&path=&host=#🇩🇪 Германия (19)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (20)": {
-        "url": "vless://93ad3825-d34a-4246-ac6c-309997c73945@146.185.243.194:10443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=vFXf9DCe2wh2GHfcb-B41SmpDvEdbKUn3jdF6NyFywQ&sid=53db6666ed2d99f1&sni=pimg.mycdn.me&spx=/#🇩🇪 Германия (20)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (21)": {
-        "url": "vless://93ad3825-d34a-4246-ac6c-309997c73945@146.185.243.194:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=UaeVx44qo8H-hY_FIgVpKnR2cxIDTmWlyuJdPEPA6Fk&sid=91db1196ed29def1&spx=%2F#🇩🇪 Германия (21)",
         "flag": "flags/de.png",
         "ping": "Проверен"
     },
@@ -164,43 +89,8 @@
         "flag": "flags/de.png",
         "ping": "Проверен"
     },
-    "🇩🇪 Германия (23)": {
-        "url": "vless://93ad3825-d34a-4246-ac6c-309997c73945@146.185.243.194:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=sun6-22.userapi.com&pbk=u_H6cWw7ezdJJJqSJ1pzxWt3rLYv2k0X10jmQuJkURA&sid=94ce3196cb2311f1&spx=%2F#🇩🇪 Германия (23)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (24)": {
-        "url": "vless://fc99bbb5-8b45-4ee1-92b6-6bd535590ad3@146.185.243.194:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=UaeVx44qo8H-hY_FIgVpKnR2cxIDTmWlyuJdPEPA6Fk&sid=91db1196ed29def1&spx=%2F#🇩🇪 Германия (24)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (25)": {
-        "url": "vless://fc99bbb5-8b45-4ee1-92b6-6bd535590ad3@146.185.243.194:5443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=randomized&pbk=vJz6ZXSwoP43DDUQxJksEsWA8AmlNo2KfJDY8QWzKw0&sid=41bd4196ed1383f1&spx=%2F&type=tcp&headerType=none#🇩🇪 Германия (25)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
-    "🇩🇪 Германия (26)": {
-        "url": "vless://bda3d5b6-9d16-427d-889e-5f5052487cf8@51.250.33.254:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=disk.yandex.ru&pbk=EZEL0umQbBVZu5rqAXXET77yJNZel2dFXDMrhQ1oPWo&sid=6ffbc446f8a0#🇩🇪 Германия (26)",
-        "flag": "flags/de.png",
-        "ping": "Проверен"
-    },
     "🇵🇱 Польша (1)": {
         "url": "vless://711f56b0-0d4c-4516-bea6-0e963749928c@xfer.my-rebar.shop:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMinPostsIntervalMs%22%3A%2230%22%7D&fp=chrome&mode=packet-up&path=/devxhttp/&pbk=lhLG7E7kkfJ-8M_R0FB8TjSvJOQr-Vsd_SG7y3YZlG4&security=reality&sni=xfer.my-rebar.shop&type=xhttp#🇵🇱 Польша (1)",
-        "flag": "flags/pl.png",
-        "ping": "Проверен"
-    },
-    "🇵🇱 Польша (2)": {
-        "url": "vless://12b11774-b58b-434b-91be-ba876df9ef5d@51.250.16.92:8444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117&sni=ads.x5.ru#🇵🇱 Польша (2)",
-        "flag": "flags/pl.png",
-        "ping": "Проверен"
-    },
-    "🇵🇱 Польша (3)": {
-        "url": "vless://9629f1af-0b24-4b0f-9308-2cc67813a69e@144.31.2.238:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&sni=github.com&path=&host=#🇵🇱 Польша (3)",
-        "flag": "flags/pl.png",
-        "ping": "Проверен"
-    },
-    "🇵🇱 Польша (4)": {
-        "url": "vless://9629f1af-0b24-4b0f-9308-2cc67813a69e@51.250.107.183:6443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&sni=ads.x5.ru&path=&host=#🇵🇱 Польша (4)",
         "flag": "flags/pl.png",
         "ping": "Проверен"
     },
@@ -214,18 +104,8 @@
         "flag": "flags/se.png",
         "ping": "Проверен"
     },
-    "🇸🇪 Швеция (2)": {
-        "url": "vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@95.163.209.38:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=44f0602c#🇸🇪 Швеция (2)",
-        "flag": "flags/se.png",
-        "ping": "Проверен"
-    },
     "🇸🇪 Швеция (3)": {
         "url": "vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@bezlimbypass2.suio.me:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=a1b2c3d4&spx=/&type=tcp#🇸🇪 Швеция (3)",
-        "flag": "flags/se.png",
-        "ping": "Проверен"
-    },
-    "🇸🇪 Швеция (4)": {
-        "url": "vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@bezlimbypass3.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=44f0602c#🇸🇪 Швеция (4)",
         "flag": "flags/se.png",
         "ping": "Проверен"
     },
@@ -234,54 +114,14 @@
         "flag": "flags/nl.png",
         "ping": "Проверен"
     },
-    "🇳🇱 Нидерланды (2)": {
-        "url": "vless://2ff4f499-97ea-485b-87db-100a104c7d91@nl-convert.nodexphere.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mvftK1HPHzpwowTw8ElAwf-GEECYx38GCTq4ihhEmAY&sni=nl-convert.nodexphere.net#🇳🇱 Нидерланды (2)",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "🇳🇱 Нидерланды (3)": {
-        "url": "vless://9629f1af-0b24-4b0f-9308-2cc67813a69e@185.112.59.241:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&sni=github.com&path=&host=#🇳🇱 Нидерланды (3)",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
     "🇳🇱 Нидерланды (4)": {
         "url": "vless://aca93f8a-0a46-4c92-a948-e745dd3fa9ae@nl.foxyrobot.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wLGgwIBWOuyGMpAOr9Y4InrGvAtzO9L58F9J3hsqtFY&sid=47a936ef6a66aa41&sni=nl.foxyrobot.ru&path=&host=nl.foxyrobot.ru&spx=/#🇳🇱 Нидерланды (4)",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "🇳🇱 Нидерланды (5)": {
-        "url": "vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@90.156.215.80:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&sid=44f0602c&sni=ads.x5.ru#🇳🇱 Нидерланды (5)",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "🇳🇱 Нидерланды (6)": {
-        "url": "vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@bezlimbypass4.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=abde0809#🇳🇱 Нидерланды (6)",
-        "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "🇳🇱 Нидерланды (7)": {
-        "url": "vless://caa7f0f9-e05b-4ed9-8c9b-bf01c6e3014f@bezlimbypass5.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=44f0602c#🇳🇱 Нидерланды (7)",
         "flag": "flags/nl.png",
         "ping": "Проверен"
     },
     "🇳🇱 Нидерланды (8)": {
         "url": "vless://d8757813-1101-4e30-a7e7-63e688bea1db@51.250.68.181:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&sid=fe2e437f64f2da7a&sni=ads.x5.ru&path=&host=&spx=/#🇳🇱 Нидерланды (8)",
         "flag": "flags/nl.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (1)": {
-        "url": "vless://c58a4c5d-413b-000a-a303-466b8c2851ae@95.163.209.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Россия (1)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (2)": {
-        "url": "vless://c58a4c5d-413b-000a-a303-466b8c2851ae@window-one.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&security=reality&sid=111111&sni=ads.x5.ru&type=tcp#🇷🇺 Россия (2)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (3)": {
-        "url": "vless://9629f1af-0b24-4b0f-9308-2cc67813a69e@51.250.107.183:5443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=EC_gDR0zwFKeVnGhy2RD1GePSUYyDhRjxCM2wCGktTk&sid=ad7dab462a323acb&sni=max.ru&path=&host=#🇷🇺 Россия (3)",
-        "flag": "flags/ru.png",
         "ping": "Проверен"
     },
     "🇷🇺 Россия (4)": {
@@ -291,36 +131,6 @@
     },
     "🇷🇺 Россия (5)": {
         "url": "vless://c58a4c5d-413b-000a-a303-466b8c2851ae@window-one.sbrf-cdn342.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Россия (5)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (6)": {
-        "url": "vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@37.139.35.40:53821?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=aXMQhLjeAAcWkwlaSe5g8Kc30VjqQ0tavdLa9D40ejU&sid=&sni=api.tau.vk.ru&path=&host=#🇷🇺 Россия (6)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (7)": {
-        "url": "vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@37.139.35.40:53825?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=aXMQhLjeAAcWkwlaSe5g8Kc30VjqQ0tavdLa9D40ejU&sid=&sni=api.tau.vk.ru&path=&host=#🇷🇺 Россия (7)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (8)": {
-        "url": "vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@37.139.35.40:8778?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=OOqB9mFan3ucg0FLHOdmgNgh7jdIc1wAy6AuU5dehxU&sid=&sni=receive-sentry.lmru.tech&path=&host=#🇷🇺 Россия (8)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (9)": {
-        "url": "vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@37.139.35.40:8779?type=grpc&security=reality&fp=chrome&pbk=Hc4aTC6Ml7XLIhdKgizmFw6dcHRv2bl2JP3Ng6K2YVM&sid=aabbccdd&sni=ozon.ru&mode=multi&serviceName=ozon&authority=#🇷🇺 Россия (9)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (10)": {
-        "url": "vless://21915536-afb5-4a0c-b047-fcf549d3a173@www.mylittleponyblog.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#🇷🇺 Россия (10)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (11)": {
-        "url": "vless://12b11774-b58b-434b-91be-ba876df9ef5d@51.250.16.92:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oF78GlcFqIbwAUjC7izfYIhfUNqa3-7EK16KaGxyrz8&sid=6a608eaf9117&sni=sun6-21.userapi.com#🇷🇺 Россия (11)",
         "flag": "flags/ru.png",
         "ping": "Проверен"
     },
@@ -341,11 +151,6 @@
     },
     "🇷🇺 Россия (15)": {
         "url": "vless://7559ad2a-a419-4fd7-bc6a-9350a017f72a@51.250.34.38:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#🇷🇺 Россия (15)",
-        "flag": "flags/ru.png",
-        "ping": "Проверен"
-    },
-    "🇷🇺 Россия (16)": {
-        "url": "vless://a01881a8-3d9b-48bb-9a9c-e96e8b40b2c6@51.250.106.242:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&sid=5e6f7a8b&sni=eh.vk.com&spx=/#🇷🇺 Россия (16)",
         "flag": "flags/ru.png",
         "ping": "Проверен"
     }
