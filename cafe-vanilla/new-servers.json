@@ -1,7 +1,12 @@
 {
     "Лучший сервер": {
-        "url": "vless://d8757813-1101-4e30-a7e7-63e688bea1db@51.250.68.181:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=H2W1qvM0nUovlPadYco7_EWiZ_psfcLxOPJwOs3BDXU&sid=fe2e437f64f2da7a&sni=ads.x5.ru&path=&host=&spx=/#⚡ Лучший сервер (🇳🇱)",
+        "url": "vless://bd4c4bb5-e964-42f6-9b87-6cd359572682@162.120.16.108:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=Ost5fMTVeAvIgluBQSIYAHKImCAz7KEBD7foI-lt2U4#⚡ Лучший сервер (🇺🇸)",
         "flag": "flags/light.png",
+        "ping": "Стабильный"
+    },
+    "США": {
+        "url": "vless://bd4c4bb5-e964-42f6-9b87-6cd359572682@162.120.16.108:3433?type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&pbk=Ost5fMTVeAvIgluBQSIYAHKImCAz7KEBD7foI-lt2U4#🇺🇸 США",
+        "flag": "flags/us.png",
         "ping": "Стабильный"
     },
     "🇫🇮 Финляндия (1)": {
