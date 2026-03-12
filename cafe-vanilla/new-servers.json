@@ -1,8 +1,13 @@
 {
     "Лучший сервер": {
-        "url": "vless://ab088d5e-2d94-497b-bca8-6875218ddc50@81.200.148.37:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=m.vk.ru&pbk=_clqzJ8ZkSG71dSLu5KfRB9NJf63uBbdlDFZ4hp1uBE&sid=3d9bfa9202efd228&spx=%2F#⚡ Лучший сервер (🇸🇪)",
+        "url": "vless://ab088d5e-2d94-497b-bca8-6875218ddc50@81.200.150.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a&spx=%2F#⚡ Лучший сервер (🇸🇪)",
         "flag": "flags/light.png",
         "ping": "Стабильный"
+    },
+    "🇸🇪 Швеция (3)": {
+        "url": "vless://ab088d5e-2d94-497b-bca8-6875218ddc50@81.200.150.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a&spx=%2F#🇸🇪 Швеция (3)",
+        "flag": "flags/se.png",
+        "ping": "Проверен"
     },
     "🇦🇹 Австрия (1)": {
         "url": "vless://13a1a860-4fd0-4007-86c7-c4b9a3580286@91.244.70.205:443?security=none&type=ws&headerType=&path=/&host=#🇦🇹 Австрия (1)",
@@ -169,11 +174,7 @@
         "flag": "flags/se.png",
         "ping": "Проверен"
     },
-    "🇸🇪 Швеция (3)": {
-        "url": "vless://ab088d5e-2d94-497b-bca8-6875218ddc50@81.200.150.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a&spx=%2F#🇸🇪 Швеция (3)",
-        "flag": "flags/se.png",
-        "ping": "Проверен"
-    },
+
     "🇸🇪 Швеция (4)": {
         "url": "vless://ab088d5e-2d94-497b-bca8-6875218ddc50@81.200.151.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a&spx=%2F#🇸🇪 Швеция (4)",
         "flag": "flags/se.png",
