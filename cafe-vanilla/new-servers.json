@@ -1,6 +1,6 @@
 {
     "Лучший сервер": {
-        "url": "vless://ab088d5e-2d94-497b-bca8-6875218ddc50@81.200.150.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=KY8KUGcr79Ysw3QBwPX7nsRf0OEoTd8jF41eyIPQsn4&sid=fce83b6352a65b4a&spx=%2F#⚡ Лучший сервер (🇸🇪)",
+        "url": "vless://91a9cb1b-68ca-4fff-a189-d409a22119ed@location-ptru.vpnlink.pro:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=G97JQ1ZxHFI42sIoMzYxooYry0iXQTqeNmR7WyRbaQI&sid=83&sni=api.vk.ru&spx=/#⚡ Лучший сервер (🇳🇱)",
         "flag": "flags/light.png",
         "ping": "Стабильный"
     },
